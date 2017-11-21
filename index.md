@@ -40,8 +40,8 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
             <div class="row half">
                 <div class="4u">
                     <img src="images/loeffler.png" />
-                    <h1>Frank Loeffler</h1>
-                    <p>Louisiana State University</p>
+                    <h1>Frank Löffler</h1>
+                    <p>Louisiana State University / Friedrich Schiller University Jena, Germany</p>
                 </div>   
                 <div class="4u">
                     <img src="images/niemeyer.png" />

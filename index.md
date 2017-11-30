@@ -19,17 +19,10 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     <h1>Frank Timmes (Chair)</h1>
                     <p>Arizona State University</p>
                 </div>
-            </div>
-            <div class="row half">
                 <div class="4u">
                     <img src="images/gesing.png" />
                     <h1>Sandra Gesing</h1>
                     <p>University of Notre Dame</p>
-                </div>
-                <div class="4u">
-                    <img src="images/patel.png" />
-                    <h1>Namu Patel</h1>
-                    <p>Northwestern University</p>
                 </div>
                 <div class="4u">
                     <img src="images/bauman.png" />
@@ -58,6 +51,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
     </div>
 </div>
 
+<a name="past-meetings"></a>
 <section class="wrapper style1 container special" markdown="0">
     <header class="major">
        <h2>Past Meetings</h2>

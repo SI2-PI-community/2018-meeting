@@ -3,7 +3,7 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) Principal Investigator (PI) workshop will be held on **[date]** 2018 at the **[location]**.
+The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday May 1, 2018 at the **[location]**.
 This year, the workshop will be co-located with the 18th IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)). 
 
 <a name="organizers"></a>

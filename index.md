@@ -18,6 +18,218 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
     </footer>
 </section>
 
+<a name="agenda"></a>
+<div class="wrapper style2" markdown="0">
+    <div class="row half">
+        <div class="12u">
+            <header>
+                <h2><strong>Agenda</strong></h2>
+                <p><strong>Title and Theme: Towards a National Software Ecosystem</strong></p>
+            </header>
+            <div class="row half">
+                <strong>Monday Apr 30, 2018</strong>
+                <table class="default stripped">
+                    <tr>
+                        <th>Time</th>
+                        <th>Event</th>
+                        <th width="40%">Speaker</th>
+                    </tr>
+                    <tr class="up">
+                        <td>8:00am</td>
+                        <td>Breakfast and Registration</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>8:30am</td>
+                        <td>Welcome Address</td>
+                        <td>Frank Timmes</td>
+                    </tr>
+                    <tr>
+                        <td>8:45am</td>
+                        <td>NSF OCI Directions</td>
+                        <td>Irene Qualters and Jim Kurose</td>
+                    </tr>                    
+                    <tr class="up">
+                        <td>9:45am</td>
+                        <td>Coffee Break</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>10:00am</td>
+                        <td>Lightning Talks #1</td>
+                        <td></td>
+                    </tr>                    
+                    <tr>
+                        <td>10:45am</td>
+                        <td>Posters Session #1</td>
+                        <td></td>
+                    </tr>                    
+                    <tr class="up">
+                        <td>noon</td>
+                        <td>Lunch SI2</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1:00pm</td>
+                        <td>CCGrid</td>
+                        <td></td>
+                    </tr>                    
+                    <tr>
+                        <td>1:15pm</td>
+                        <td>SI2 Institutes #1</td>
+                        <td>Nancy Wilkins-Diehr</td>
+                    </tr>                    
+                    <tr>
+                        <td>1:45pm</td>
+                        <td>SI2 Institutes #2</td>
+                        <td>Daniel Crawford</td>
+                    </tr>  
+                    <tr>
+                        <td>2:15pm</td>
+                        <td>SI2 Institutes #3</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>2:45pm</td>
+                        <td>Open Discussion</td>
+                        <td></td>
+                    </tr>  
+                    <tr class="up">
+                        <td>3:00pm</td>
+                        <td>Coffee Break</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>3:15pm</td>
+                        <td>Lightning Talks #2</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>4:00pm</td>
+                        <td>Posters Session #2</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>5:00pm</td>
+                        <td>Closing Session</td>
+                        <td></td>
+                    </tr>  
+                </table>
+            </div>
+            <div class="row half">
+                <strong>Tuesday May 1, 2018</strong>
+                <table class="default stripped">
+                    <tr>
+                        <th>Time</th>
+                        <th>Event</th>
+                        <th width="40%">Speaker</th>
+                    </tr>
+                    <tr class="up">
+                        <td>8:00am</td>
+                        <td>Breakfast and Registration</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>8:30am</td>
+                        <td>Conceptualization: Geospatial Software Institute</td>
+                        <td>Shaowen Wang</td>
+                    </tr>
+                    <tr>
+                        <td>9:00am</td>
+                        <td>Conceptualization: Data-Intensive Analysis for High Energy Physics</td>
+                        <td>Peter Elmer</td>
+                    </tr>                    
+                    <tr>
+                        <td>9:30am</td>
+                        <td>Conceptualization #3</td>
+                        <td></td>
+                    </tr>                    
+                    <tr class="up">
+                        <td>10:00am</td>
+                        <td>Coffee Break</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>10:15am</td>
+                        <td>Lightning Talks #3</td>
+                        <td></td>
+                    </tr>                    
+                    <tr>
+                        <td>11:00am</td>
+                        <td>Posters Session #3</td>
+                        <td></td>
+                    </tr>                    
+                    <tr class="up">
+                        <td>noon</td>
+                        <td>Lunch (with CCGrid)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1:00pm</td>
+                        <td>Industry Highlight</td>
+                        <td></td>
+                    </tr>                    
+                    <tr>
+                        <td>1:30pm</td>
+                        <td>SSI Highlight</td>
+                        <td></td>
+                    </tr>                    
+                    <tr>
+                        <td>1:45pm</td>
+                        <td>SSE Highlight</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>2:00pm</td>
+                        <td>REU Highlight</td>
+                        <td>Dan Katz</td>
+                    </tr>  
+                    <tr>
+                        <td>2:15pm</td>
+                        <td>SSI Highlight</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>2:30pm</td>
+                        <td>SSE Highlight</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>2:45pm</td>
+                        <td>Software Security</td>
+                        <td>Von Welch or Susan Sons</td>
+                    </tr>  
+                    <tr class="up">
+                        <td>3:00pm</td>
+                        <td>Coffee Break</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>3:15pm</td>
+                        <td>Lightning Talks #4</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>4:00pm</td>
+                        <td>Posters Session #4</td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>5:00pm</td>
+                        <td>SI2 Program Directions</td>
+                        <td>Vipin Chaudhary</td>
+                    </tr>  
+                    <tr>
+                        <td>5:30pm</td>
+                        <td>Closing</td>
+                        <td></td>
+                    </tr>  
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
 <a name="organizers"></a>
 <div class="wrapper style2" markdown="0">
     <div class="row half">

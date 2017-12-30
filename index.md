@@ -171,12 +171,12 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>                    
                     <tr>
                         <td>1:30pm</td>
-                        <td>SSI Highlight</td>
+                        <td>SSI Highlight #1</td>
                         <td></td>
                     </tr>                    
                     <tr>
                         <td>1:45pm</td>
-                        <td>SSE Highlight</td>
+                        <td>SSE Highlight #1</td>
                         <td></td>
                     </tr>  
                     <tr>
@@ -186,13 +186,13 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>  
                     <tr>
                         <td>2:15pm</td>
-                        <td>SSI Highlight</td>
+                        <td>SSI Highlight #2</td>
                         <td></td>
                     </tr>  
                     <tr>
                         <td>2:30pm</td>
-                        <td>SSE Highlight</td>
-                        <td></td>
+                        <td>SSE Highlight #2</td>
+                        <td>Jeff Carver</td>
                     </tr>  
                     <tr>
                         <td>2:45pm</td>

@@ -51,7 +51,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>
                     <tr>
                         <td>8:45am</td>
-                        <td>NSF OCI Directions</td>
+                        <td>NSF OAC Directions</td>
                         <td>Irene Qualters and Jim Kurose</td>
                     </tr>                    
                     <tr>

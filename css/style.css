@@ -1160,3 +1160,11 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+.tnormal {
+	font-weight: normal;
+}
+
+.lnormal {
+	line-height: 1.5em
+}

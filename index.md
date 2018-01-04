@@ -30,13 +30,18 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                 <strong>Monday Apr 30, 2018</strong>
                 <table class="default stripped">
                     <tr>
-                        <th>Time</th>
+                        <th width="10%">Time</th>
                         <th>Event</th>
-                        <th width="40%">Speaker</th>
+                        <th width="30%">Speaker</th>
                     </tr>
                     <tr class="up">
-                        <td>8:00am</td>
+                        <td>7:30am</td>
                         <td>Breakfast and Registration</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>7:30am</td>
+                        <td><span class="tnormal">Breakfast with Jim Kurose**</span></td>
                         <td></td>
                     </tr>
                     <tr>
@@ -49,8 +54,13 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                         <td>NSF OCI Directions</td>
                         <td>Irene Qualters and Jim Kurose</td>
                     </tr>                    
+                    <tr>
+                        <td>9:15am</td>
+                        <td>CCGrid</td>
+                        <td></td>
+                    </tr>                    
                     <tr class="up">
-                        <td>9:45am</td>
+                        <td>9:30am</td>
                         <td>Coffee Break</td>
                         <td></td>
                     </tr>
@@ -71,27 +81,22 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td>CCGrid</td>
+                        <td>Industry Highlight</td>
                         <td></td>
                     </tr>                    
                     <tr>
-                        <td>1:15pm</td>
-                        <td>SI2 Institutes #1</td>
+                        <td>1:30pm</td>
+                        <td>SI2 Institutes: <span class="tnormal">Science Gateways Software Institute</span></td>
                         <td>Nancy Wilkins-Diehr</td>
                     </tr>                    
                     <tr>
-                        <td>1:45pm</td>
-                        <td>SI2 Institutes #2</td>
+                        <td>2:00pm</td>
+                        <td>SI2 Institutes: <span class="tnormal">Molecular Science Software Institute</span></td>
                         <td>Daniel Crawford</td>
                     </tr>  
                     <tr>
-                        <td>2:15pm</td>
+                        <td>2:30pm</td>
                         <td>SI2 Institutes #3</td>
-                        <td></td>
-                    </tr>  
-                    <tr>
-                        <td>2:45pm</td>
-                        <td>Open Discussion</td>
                         <td></td>
                     </tr>  
                     <tr class="up">
@@ -115,34 +120,35 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                         <td></td>
                     </tr>  
                 </table>
+                <p style="margin-top: -2em; padding: 0; font-size: 11px"><strong>** For selected PIs only.</strong></p>
             </div>
             <div class="row half">
                 <strong>Tuesday May 1, 2018</strong>
                 <table class="default stripped">
                     <tr>
-                        <th>Time</th>
+                        <th width="10%">Time</th>
                         <th>Event</th>
-                        <th width="40%">Speaker</th>
+                        <th width="30%">Speaker</th>
                     </tr>
                     <tr class="up">
-                        <td>8:00am</td>
+                        <td>7:30am</td>
                         <td>Breakfast and Registration</td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>8:30am</td>
-                        <td>Conceptualization: Geospatial Software Institute</td>
+                        <td>Conceptualization: <span class="tnormal">Geospatial Software Institute</span></td>
                         <td>Shaowen Wang</td>
                     </tr>
                     <tr>
                         <td>9:00am</td>
-                        <td>Conceptualization: Data-Intensive Analysis for High Energy Physics</td>
+                        <td>Conceptualization: <span class="tnormal">Data-Intensive Analysis for High Energy Physics</span></td>
                         <td>Peter Elmer</td>
                     </tr>                    
                     <tr>
                         <td>9:30am</td>
-                        <td>Conceptualization #3</td>
-                        <td></td>
+                        <td>Conceptualization: <span class="tnormal">Conceptualizing a US Research Software Sustainability Institute</span></td>
+                        <td>Karthik Ram</td>
                     </tr>                    
                     <tr class="up">
                         <td>10:00am</td>
@@ -161,66 +167,61 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>                    
                     <tr class="up">
                         <td>noon</td>
-                        <td>Lunch (with CCGrid)</td>
+                        <td>Lunch</td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td>Industry Highlight</td>
-                        <td></td>
+                        <td class="lnormal">SSI Highlight: <span class="tnormal">STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</span></td>
+                        <td>Joannes Westerink</td>
                     </tr>                    
                     <tr>
-                        <td>1:30pm</td>
-                        <td>SSI Highlight #1</td>
-                        <td></td>
-                    </tr>                    
-                    <tr>
-                        <td>1:45pm</td>
-                        <td>SSE Highlight #1</td>
+                        <td>1:15pm</td>
+                        <td class="lnormal">SSE Highlight: <span class="tnormal"></span></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>2:00pm</td>
-                        <td>REU Highlight</td>
+                        <td>1:30pm</td>
+                        <td class="lnormal">REU Highlight: <span class="tnormal">NCSA's INCLUSION (Incubating a New Community of Leaders Using Software, Inclusion, Innovation, Interdisciplinary and OpeN-Science) REU Site</span></td>
                         <td>Dan Katz</td>
                     </tr>  
                     <tr>
-                        <td>2:15pm</td>
-                        <td>SSI Highlight #2</td>
-                        <td></td>
+                        <td>1:45pm</td>
+                        <td>SSI Highlight: <span class="tnormal">Distributed Workflow Management Research and Software in Support of Science</span></td>
+                        <td>Ewa Deelman</td>
                     </tr>  
                     <tr>
-                        <td>2:30pm</td>
-                        <td>SSE Highlight #2</td>
+                        <td>2:00pm</td>
+                        <td>SSE Highlight: <span class="tnormal">Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</span></td>
                         <td>Jeff Carver</td>
                     </tr>  
                     <tr>
-                        <td>2:45pm</td>
+                        <td>2:15pm</td>
                         <td>Software Security</td>
                         <td>Von Welch or Susan Sons</td>
                     </tr>  
                     <tr class="up">
-                        <td>3:00pm</td>
+                        <td>2:30pm</td>
                         <td>Coffee Break</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>3:15pm</td>
+                        <td>2:45pm</td>
                         <td>Lightning Talks #4</td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>4:00pm</td>
+                        <td>3:30pm</td>
                         <td>Posters Session #4</td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>5:00pm</td>
+                        <td>4:30pm</td>
                         <td>SI2 Program Directions</td>
                         <td>Vipin Chaudhary</td>
                     </tr>  
                     <tr>
-                        <td>5:30pm</td>
+                        <td>5:00pm</td>
                         <td>Closing</td>
                         <td></td>
                     </tr>  

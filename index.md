@@ -10,7 +10,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
     <header>
         <h3>Workshop Registration</h3>
     </header>
-    <p>Please register your intent to attend the 2018 SI2 PI workshop:</p>
+    <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>February 1, 2018</u></strong>:</p>
     <footer>
         <ul class="buttons">
             <li><a href="https://goo.gl/forms/2AOQFdgwKimM5bT53" target="_blank" class="button special small">Register</a></li>
@@ -187,12 +187,12 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>  
                     <tr>
                         <td>1:45pm</td>
-                        <td>SSI Highlight: <span class="tnormal">Distributed Workflow Management Research and Software in Support of Science</span></td>
+                        <td class="lnormal">SSI Highlight: <span class="tnormal">Distributed Workflow Management Research and Software in Support of Science</span></td>
                         <td>Ewa Deelman</td>
                     </tr>  
                     <tr>
                         <td>2:00pm</td>
-                        <td>SSE Highlight: <span class="tnormal">Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</span></td>
+                        <td class="lnormal">SSE Highlight: <span class="tnormal">Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</span></td>
                         <td>Jeff Carver</td>
                     </tr>  
                     <tr>

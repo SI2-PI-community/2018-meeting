@@ -10,7 +10,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
     <header>
         <h3>Workshop Registration</h3>
     </header>
-    <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>February 1, 2018</u></strong>:</p>
+    <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>February 15, 2018</u></strong>:</p>
     <footer>
         <ul class="buttons">
             <li><a href="https://goo.gl/forms/2AOQFdgwKimM5bT53" target="_blank" class="button special small">Register</a></li>
@@ -142,7 +142,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>
                     <tr>
                         <td>9:00am</td>
-                        <td>Conceptualization: <span class="tnormal">Data-Intensive Analysis for High Energy Physics</span></td>
+                        <td>Conceptualization: <span class="tnormal">Scientific Software Innovation Institute For High Energy Physics</span></td>
                         <td>Peter Elmer</td>
                     </tr>                    
                     <tr>

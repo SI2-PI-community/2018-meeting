@@ -3,7 +3,7 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday May 1, 2018 at the **[location]**.
+The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday May 1, 2018 at the **The Westin Washington, D.C. City Center**.
 This year, the workshop will be co-located with the 18th IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)). 
 
 <section class="wrapper style3 special" markdown="0">
@@ -54,11 +54,6 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                         <td>NSF OAC Directions</td>
                         <td>Irene Qualters and Jim Kurose</td>
                     </tr>                    
-                    <tr>
-                        <td>9:15am</td>
-                        <td>CCGrid</td>
-                        <td></td>
-                    </tr>                    
                     <tr class="up">
                         <td>9:30am</td>
                         <td>Coffee Break</td>
@@ -81,7 +76,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td>Industry Highlight</td>
+                        <td>SI2 Institutes: <span class="tnormal">TBA</span></td>
                         <td></td>
                     </tr>                    
                     <tr>
@@ -96,7 +91,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>  
                     <tr>
                         <td>2:30pm</td>
-                        <td>SI2 Institutes #3</td>
+                        <td>Industry Highlight: <span class="tnormal">TBA</span></td>
                         <td></td>
                     </tr>  
                     <tr class="up">
@@ -177,8 +172,8 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>                    
                     <tr>
                         <td>1:15pm</td>
-                        <td class="lnormal">SSE Highlight: <span class="tnormal"></span></td>
-                        <td></td>
+                        <td class="lnormal">SSE Highlight: <span class="tnormal">Fast Dynamic Load Balancing Tools for Extreme Scale Systems</span></td>
+                        <td>Mark Shephard</td>
                     </tr>  
                     <tr>
                         <td>1:30pm</td>

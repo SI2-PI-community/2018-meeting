@@ -192,7 +192,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>  
                     <tr>
                         <td>2:15pm</td>
-                        <td>Software Security: Selecting engineering and security practices to enable robust CI and trustworthy science</td>
+                        <td class="lnormal">Software Security: <span class="tnormal">Selecting engineering and security practices to enable robust CI and trustworthy science</span></td>
                         <td>Von Welch</td>
                     </tr>  
                     <tr class="up">

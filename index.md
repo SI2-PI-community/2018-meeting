@@ -192,8 +192,8 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>  
                     <tr>
                         <td>2:15pm</td>
-                        <td>Software Security</td>
-                        <td>Von Welch or Susan Sons</td>
+                        <td>Software Security: Selecting engineering and security practices to enable robust CI and trustworthy science</td>
+                        <td>Von Welch</td>
                     </tr>  
                     <tr class="up">
                         <td>2:30pm</td>

@@ -77,7 +77,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     <tr>
                         <td>1:00pm</td>
                         <td>SI2 Institutes: <span class="tnormal">TBA</span></td>
-                        <td></td>
+                        <td>Gerhard Klimeck</td>
                     </tr>                    
                     <tr>
                         <td>1:30pm</td>
@@ -92,7 +92,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     <tr>
                         <td>2:30pm</td>
                         <td>Industry Highlight: <span class="tnormal">TBA</span></td>
-                        <td></td>
+                        <td>Mike Zentner</td>
                     </tr>  
                     <tr class="up">
                         <td>3:00pm</td>

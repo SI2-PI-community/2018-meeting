@@ -76,7 +76,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td>SI2 Institutes: <span class="tnormal">TBA</span></td>
+                        <td>SI2 Institutes: <span class="tnormal">Network for Computational Nanotechnology Cyber Platform</span></td>
                         <td>Gerhard Klimeck</td>
                     </tr>                    
                     <tr>

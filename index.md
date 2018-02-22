@@ -21,6 +21,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
 ### Poster presentation
 
 PIs are expected to present a poster on their project. We will again use [Figshare](https://figshare.com) to host and share the posters digitally. Please follow these steps to upload your poster by **23 April 2018**:
+
  1. Create or log into your [Figshare](https://figshare.com) account.
  2. Follow steps from "My Data" -> "Create a new item" to bring up the content upload form.
  3. Fill in the appropriate metadata (authors, title).

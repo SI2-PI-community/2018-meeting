@@ -18,6 +18,25 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
     </footer>
 </section>
 
+### Poster presentation
+
+PIs are expected to present a poster on their project. We will again use [Figshare](https://figshare.com) to host and share the posters digitally. Please follow these steps to upload your poster by **23 April 2018**:
+ 1. Create or log into your [Figshare](https://figshare.com) account.
+ 2. Follow steps from "My Data" -> "Create a new item" to bring up the content upload form.
+ 3. Fill in the appropriate metadata (authors, title).
+ 4. Set the "Item type" to poster, and at the keyword stage put `NSF-SI2-2018` as one of the chosen keywords. (Hit return/enter to separate keywords.)
+ 5. You may also want to add your NSF award # to the "Funding" section.
+ 6. For license, we recommend selecting ["CC BY"](https://creativecommons.org/licenses/by/4.0/) (which should be the default).
+ 7. Please also add a brief abstract describing your project.
+ 8. Hit publish!
+ 
+Please note that you are expected to print out and bring a physical copy on your own; we will not be printing any posters. Collaborative projects (including across multiple institutions) should only bring one poster.
+
+### Lightning talks
+
+Each project will also give a brief, one-minute lightning talk to introduce their poster. To avoid any technical issues and minimize delays, lightning talk slide(s) will need to be submitted by **23 April 2018**. More instructions will follow on this topic, as well as a recommended template.
+
+
 <a name="agenda"></a>
 <div class="wrapper style2" markdown="0">
     <div class="row half">

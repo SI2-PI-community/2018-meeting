@@ -3,14 +3,31 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday May 1, 2018 at the **The Westin Washington, D.C. City Center**.
+The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday May 1, 2018 at the **[The Westin Washington, D.C. City Center](http://www.westinwashingtondccitycenter.com/)**.
 This year, the workshop will be co-located with the 18th IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)). 
+
+<div class="wrapper style2" markdown="0">
+    <div class="row half">
+        <div class="12u">
+            <header>
+                <h2>Important Dates</h2>
+            </header>
+            <div class="row half">
+                <div class="8u">
+                    Workshop Registration: <strong>29 March 2018</strong><br />
+                    Poster Submission: <strong>23 April 2018</strong><br />
+                    Lightning Talk Submission: <strong>23 April 2018</strong><br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <section class="wrapper style3 special" markdown="0">
     <header>
         <h3>Workshop Registration</h3>
     </header>
-    <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>February 15, 2018</u></strong>:</p>
+    <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>March 29, 2018</u></strong>:</p>
     <footer>
         <ul class="buttons">
             <li><a href="https://goo.gl/forms/2AOQFdgwKimM5bT53" target="_blank" class="button special small">Register</a></li>
@@ -45,7 +62,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
 <a name="talks"></a>
 <section class="wrapper style3" markdown="0">
     <header>
-        <h3><strong>Lightning talks</strong></h3>
+        <h3><strong>Lightning Talks</strong></h3>
     </header>
     <p>
         Each project will also give a brief, one-minute lightning talk to introduce their poster. To avoid any technical issues and minimize delays, lightning talk slide(s) will need to be submitted by <strong><u>23 April 2018</u></strong>. More instructions will follow on this topic, as well as a recommended template.

@@ -331,7 +331,10 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
         <div class="4u 12u(narrower)">
             <h3>2017 SI<sup>2</sup> PI Meeting</h3>
             <p>Arlington, VA – 21-22 Feb 2017</p>
-            <p><a href="https://si2-pi-community.github.io/2017-meeting/" target="_blank"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a></p>
+            <p><a href="https://si2-pi-community.github.io/2017-meeting/" target="_blank"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
+                &nbsp;&nbsp;
+                <a href="https://doi.org/10.6084/m9.figshare.4987013.v2" target="_blank"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
+            </p>
         </div>
         <div class="4u 12u(narrower)">
             <h3>2016 SI<sup>2</sup> PI Meeting</h3>
@@ -340,7 +343,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
                 <a href="http://cococubed.asu.edu/si2_pi_workshop_2016/" target="_blank"><i class="fa fa-external-link"></i>&nbsp;&nbsp;Website</a>
                 &nbsp;&nbsp;
                 <a href="http://dl.acm.org/citation.cfm?id=2965630" target="_blank"><i class="fa fa-file-o"></i>&nbsp;&nbsp;Report</a>
-             </p>
+            </p>
         </div>
         <div class="4u 12u(narrower)">
             <h3>2015 SI<sup>2</sup> PI Meeting</h3>

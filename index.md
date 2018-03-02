@@ -81,7 +81,6 @@ Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.
         Follow the instructions given above for the posters but use the keyword
         "<u>NSF-SI2-2018-Talk</u>" as one of the chosen keywords. Your pdf slide will 
         be shown during your 1 minute Lightning Talk.
-        More instructions will follow on this topic, as well as a recommended template.
     </p>
 </section>
 

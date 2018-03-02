@@ -3,8 +3,15 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday May 1, 2018 at the **[The Westin Washington, D.C. City Center](http://www.westinwashingtondccitycenter.com/)**.
-This year, the workshop will be co-located with the 18th IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)). 
+The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) 
+Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday 
+May 1, 2018 at the **[The Westin Washington, D.C. City Center](http://www.westinwashingtondccitycenter.com/)**, 
+1400 M Street NW, Washington, DC, 20005. Calling the hotel at 202-429-1700 and
+saying "CCGrid group rate" should trigger of discount on the room rate (CCGrid 
+group rate is only valid from April 30, thus April 29 is not included).                                                                                                                                                                                                                                                                                
+
+This year, the workshop will be co-located with the 18th IEEE/ACM International 
+Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)). 
 
 <div class="wrapper style2" markdown="0">
     <div class="row half">
@@ -47,7 +54,7 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
         1. Create or log into your <a href="https://figshare.com" target="_blank">Figshare</a> account.<br />
         2. Follow steps from "My Data" -> "Create a new item" to bring up the content upload form.<br />
         3. Fill in the appropriate metadata (authors, title).<br />
-        4. Set the "Item type" to poster, and at the keyword stage put "NSF-SI2-2018" as one of the chosen keywords. (Hit return/enter to separate keywords.)<br />
+        4. Set the "Item type" to poster, and at the keyword stage put "<u>NSF-SI2-2018</u>" as one of the chosen keywords. (Hit return/enter to separate keywords.)<br />
         5. You may also want to add your NSF award # to the "Funding" section.<br />
         6. For license, we recommend selecting "<a href="https://creativecommons.org/licenses/by/4.0" target="_blank">CC BY</a>" (which should be the default).<br />
         7. Please also add a brief abstract describing your project.<br />
@@ -65,7 +72,16 @@ This year, the workshop will be co-located with the 18th IEEE/ACM International 
         <h3><strong>Lightning Talks</strong></h3>
     </header>
     <p>
-        Each project will also give a brief, one-minute lightning talk to introduce their poster. To avoid any technical issues and minimize delays, lightning talk slide(s) will need to be submitted by <strong><u>23 April 2018</u></strong>. More instructions will follow on this topic, as well as a recommended template.
+        Each project will also give a brief, one-minute lightning talk to introduce 
+        their poster. This is an opportunity to drive meeting participants to your poster.
+        To avoid any technical issues and minimize delays, lightning talk slide(s) 
+        will need to be submitted by <strong><u>23 April 2018</u></strong>. 
+        As for the posters, we will use <a href="https://figshare.com" target="_blank">Figshare</a>
+        to gather your 1 slide pdf files.
+        Follow the instructions given above for the posters but use the keyword
+        "<u>NSF-SI2-2018-Talk</u>" as one of the chosen keywords. Your pdf slide will 
+        be shown during your 1 minute Lightning Talk.
+        More instructions will follow on this topic, as well as a recommended template.
     </p>
 </section>
 

@@ -100,14 +100,14 @@ Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.
                         <th>Event</th>
                         <th width="30%">Speaker</th>
                     </tr>
+                    <tr>
+                        <td>7:15am</td>
+                        <td><span class="tnormal">Breakfast with Jim Kurose**</span></td>
+                        <td></td>
+                    </tr>
                     <tr class="up">
                         <td>7:30am</td>
                         <td>Breakfast and Registration</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>7:30am</td>
-                        <td><span class="tnormal">Breakfast with Jim Kurose**</span></td>
                         <td></td>
                     </tr>
                     <tr>

@@ -1168,3 +1168,8 @@
 .lnormal {
 	line-height: 1.5em
 }
+
+.bnormal, .bnormal td {
+	font-weight: normal;
+	line-height: 1.5em
+}

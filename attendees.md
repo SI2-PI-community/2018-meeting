@@ -7,9 +7,10 @@ layout: default
     <div class="row half">
         <div class="12u">
             <header>
-                <h2><strong>Attendees</strong></h2>
+                <h2 style="margin: 0"><strong>Attendees</strong></h2>
             </header>
             <div class="row half">
+                <p style="margin: 0">As of Apr 4, 2018</p>
                 <table class="default stripped">
                     <tr>
                         <th width="15%">Name</th>

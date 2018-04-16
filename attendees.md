@@ -10,7 +10,7 @@ layout: default
                 <h2 style="margin: 0"><strong>Attendees</strong></h2>
             </header>
             <div class="row half">
-                <p style="margin: 0">As of Apr 4, 2018</p>
+                <p style="margin: 0">As of Apr 16, 2018</p>
                 <table class="default stripped">
                     <tr>
                         <th width="15%">Name</th>
@@ -1038,6 +1038,42 @@ layout: default
 <td>University of Notre Dame</td>
 <td>SI2-SSI: Collaborative Research: STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</td>
 <td>SI2-SSI</td>
+</tr>
+<tr>
+<td>Philip Maechling</td>
+<td>Southern California Earthquake Center</td>
+<td>Mining Seismic Wavefields</td>
+<td>Other</td>
+</tr>
+<tr>
+<td>Andrew Miner</td>
+<td>Iowa State University</td>
+<td>SI2-SSE: A Next-Generation Decision Diagram Library</td>
+<td>SI2-SSE</td>
+</tr>
+<tr>
+<td>Paul Saxe</td>
+<td>Molecular Sciences Software Institute</td>
+<td>The Molecular Sciences Software Institute</td>
+<td>SI2-Institute</td>
+</tr>
+<tr>
+<td>Matthew Newville</td>
+<td>The University of Chicago</td>
+<td>Integration of Synchrotron X-Ray Analysis Software Methods into the Larch Framework</td>
+<td>SI2-SSI</td>
+</tr>
+<tr>
+<td>Gene Cooperman</td>
+<td>Northeastern University</td>
+<td>NSCI: SI2-SSE: An Extensible Model to Support Scalable Checkpoint-Restart for DMTCP across Multiple Disciplines</td>
+<td>SI2-SSE</td>
+</tr>
+<tr>
+<td>Raheem Beyah</td>
+<td>Georgia Institute Of Technology</td>
+<td>SI2-SSE: ShareSafe: A Framework for Researchers and Data Owners to Help Facilitate Secure Graph Data Sharing</td>
+<td>SI2-SSE</td>
 </tr>
 </tbody>
                 </table>

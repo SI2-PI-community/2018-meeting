@@ -10,7 +10,7 @@ layout: default
                 <h2 style="margin: 0"><strong>Attendees</strong></h2>
             </header>
             <div class="row half">
-                <p style="margin: 0">As of Apr 16, 2018</p>
+                <p style="margin: 0">As of Apr 22, 2018</p>
                 <table class="default stripped">
                     <tr>
                         <th width="15%">Name</th>
@@ -1073,6 +1073,42 @@ layout: default
 <td>Raheem Beyah</td>
 <td>Georgia Institute Of Technology</td>
 <td>SI2-SSE: ShareSafe: A Framework for Researchers and Data Owners to Help Facilitate Secure Graph Data Sharing</td>
+<td>SI2-SSE</td>
+</tr>
+<tr>
+<td>Stefan Robila</td>
+<td>National Science Foundation</td>
+<td>N/A</td>
+<td>Other</td>
+</tr>
+<tr>
+<td>Gerhard Klimeck</td>
+<td>Purdue University</td>
+<td>Network for Computational Nanotechnology Cyber Platform</td>
+<td>Other</td>
+</tr>
+<tr>
+<td>Tim Menzies</td>
+<td>NC State</td>
+<td>Empirical Methods for Computational Science</td>
+<td>EAGER</td>
+</tr>
+<tr>
+<td>Juan Zhai</td>
+<td>Purdue University</td>
+<td>A Python Program Analysis Infrastructure to Facilitate Better Data Processing</td>
+<td>EAGER</td>
+</tr>
+<tr>
+<td>Warren Mori</td>
+<td>UCLA</td>
+<td>Particle-in-cell and kinetic simulation software center</td>
+<td>SI2-SSI</td>
+</tr>
+<tr>
+<td>James Bordner</td>
+<td>University of California, San Diego</td>
+<td>SI2-SSE: Petascale Enzo: Software Infrastructure Development and Community Engagement</td>
 <td>SI2-SSE</td>
 </tr>
 </tbody>

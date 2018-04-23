@@ -109,7 +109,7 @@ layout: default
 <td>OFM Research</td>
 <td>SI2-SSI: Collaborative Research: ENKI: Software infrastructure that ENables Knowledge Integration for modeling coupled geochemical and geodynamical processes</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/ENKI_poster_presentation_2018_SI_2_meeting/6173906" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/ENKI_-_lightning_talk_2018_SI_2_meeting/6173924" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ layout: default
 <td>University of North Carolina at Chapel Hill</td>
 <td>NSCI: SI2-SSE: Time Stepping and Exchange-Correlation Modules for Massively Parallel Real-time Time-dependent DFT</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2-SSE_Massively-Parallel_Real-Time_TDDFT_Modules_for_Non-Equilibrium_Electron_Dynamics/6171428" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Massively-Parallel_Real-Time_TDDFT_Modules_for_Non-Equilibrium_Electron_Dynamics/6171461" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ layout: default
 <td>University of Utah</td>
 <td>SI2-SSE: Scalable Multifaceted GPU Program Debugging</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Quantifying_Compiler_Effects_on_Code_Performance_and_Reproducibility_using_FLiT/6171626" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Quantifying_Compiler_Effects_on_Code_Performance_and_Reproducibility_using_FLiT/6171626" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -295,8 +295,9 @@ layout: default
 <td>University of Tennessee</td>
 <td>SI2-SSE: A Software Element for Neutrino Radiation Hydrodynamics in GenASiS</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Toward_Sustainable_Software_for_Science_-_Implementing_and_Assessing_Systematic_Testing_Approaches_for_Scientific_Software/6173813" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Aleksei Aksimentiev</td>
 <td>University of Illinois at Urbana-Champaign</td>
@@ -331,7 +332,7 @@ layout: default
 <td>Rensselaer Polytechnic Institute</td>
 <td>SI2-SSE: Fast Dynamic Load Balancing Tools for Extreme Scale Systems </td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Shephard-2081poster-grant-1533581/6173684" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Fast_Dynamic_Load_Balancing_for_Extreme_Scale_Systems/6173765" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -339,7 +340,7 @@ layout: default
 <td>Montana State University</td>
 <td>Toward Sustainable Software for Science - Implementing and Assessing Systematic Testing Approaches for Scientific Software</td>
 <td>Other</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Toward_Sustainable_Software_for_Science_-_Implementing_and_Assessing_Systematic_Testing_Approaches_for_Scientific_Software/6173813" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Toward_Sustainable_Software_for_Science_-_Implementing_and_Assessing_Systematic_Testing_Approaches_for_Scientific_Software/6173936" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -445,7 +446,7 @@ layout: default
 <td>University of Texas Health Science Center at San Antonio</td>
 <td>SI2-SSE: GenApp - A Transformative Generalized Application Cyberinfrastructure</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2-SSE_GenApp_-_A_Transformative_Generalized_Application_Cyberinfrastructure/6171542" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2-SSE_GenApp_-_A_Transformative_Generalized_Application_Cyberinfrastructure/6171614" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -527,7 +528,7 @@ layout: default
 <td>Louisiana State University</td>
 <td>Collaborative Research: Einstein Toolkit Communitiy Integration and Data Exploration </td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_poster/6167924" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_talk/6171380" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -551,7 +552,7 @@ layout: default
 <td>Enhancing the PReconditioned Iterative MultiMethod Eigensolver Software with New Methods and Functionality for Eigenvalue and Singular Value Decomposition (SVD) Problems</td>
 <td>SI2-SSE</td>
 <td></td>
-<td><a href="<td><a href="https://figshare.com/articles/University_of_Chicago_CRESCAT_Project/6173996" target="_blank"><i class="fa fa-external-link"></i></a></td>" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/Enhancing_the_PRIMME_Software_with_New_Methods_and_Functionality_for_Eigenvalues_and_SVD_problems/6174029" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Omar Ghattas</td>
@@ -679,8 +680,9 @@ layout: default
 <td>NC State University</td>
 <td>SI2 -SSE: An open source multi-physics platform to advance fundamental understanding of plasma  physics and enable impactful application of plasma systems</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/An_open_source_multi-physics_platform_to_advance_fundamental_understanding_of_plasma_physics_and_enable_impactful_application_of_plasma_systems/6173822" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ramakrishnan Kannan</td>
 <td>Oak Ridge National Laboratory</td>
@@ -715,7 +717,7 @@ layout: default
 <td>Texas Advanced Computing Center</td>
 <td>Collaborative Research: SI2-SSI: A Comprehensive Ray Tracing Framework for Visualization in Distributed-Memory Parallel Environments.</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/GraviT_project_poster_for_NSF_SI_2_PI_meeting_2018/6173651" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/GraviT_Lightning_Talk_Slide_for_SI_2_PI_meeting_2018/6173714" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -731,6 +733,14 @@ layout: default
 <td>SI2-SSE: Deep Forge: a Machine Learning Gateway for Scientific Workflow Design</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/DeepForge_A_Machine_Learning_Gateway_for_Scientific_Workflow_Design/6170933" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td></td>
+</tr>
+<tr>
+<td>Peter Volgyesi</td>
+<td>Vanderbilt University</td>
+<td>SI2-SSE: Development of a Software Framework for Formalizing Forcefield Atom-Typing for Molecular Simulation</td>
+<td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/SI2-SSE_Development_of_a_Software_Framework_for_Formalizing_ForceField_Atom-Typing_for_Molecular_Simulation/6170123" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2-SSE_Development_of_a_Software_Framework_for_Formalizing_ForceField_Atom-Typing_for_Molecular_Simulation/6173888" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -746,7 +756,7 @@ layout: default
 <td>SUNY Binghamton</td>
 <td>SI2-SSE: Expanding the Scope of Materials Modeling with EPW Software</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Expanding_the_Scope_of_Materials_Modeling_with_EPW_Software/6173708" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Expanding_the_Scope_of_Materials_Modeling_with_EPW_Software_-_Presentation_Slides/6173732" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -777,8 +787,9 @@ layout: default
 <td>Northeastern University</td>
 <td>SHF: Small: Automated Detection and Repair of Errors in Event-Driven Applications</td>
 <td>Other</td>
+<td><a href="https://figshare.com/articles/Automated_Detection_and_Repair_of_Errors_in_Event-Driven_Applications/6171419" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ye Zhao</td>
 <td>Kent State University</td>
@@ -834,7 +845,7 @@ layout: default
 <td>University of California, Irvine</td>
 <td>SI2-SSE: C11Tester: Scaling Testing of C/C++11 Atomics to Real-World Systems</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/C11Tester_Scaling_Testing_of_C_C_11_Atomics_to_Real-WorldSystems/6173390" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2-SSE_C11Tester_Scaling_Testing_of_C_C_11_Atomics_to_Real-World_Systems/6173645" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -849,7 +860,7 @@ layout: default
 <td>University of Missouri - Kansas City</td>
 <td>1729227</td>
 <td>DMREF</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Predictive_Modeling_of_Polymer-Derived_Ceramics_Discovering_Methods_for_the_Design_and_Fabrication_of_Complex_Disordered_Solids/6171164" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Predictive_Modeling_of_Polymer-Derived_Ceramics_Discovering_Methods_for_the_Design_and_Fabrication_of_Complex_Disordered_Solids/6171272" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -864,7 +875,7 @@ layout: default
 <td>Penn State</td>
 <td>Hearing the signal through the static: Real-time noise reduction in the hunt for binary black holes and other gravitational wave transients</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Hearing_the_Signal_through_the_Static_Real-time_Noise_Reduction_in_the_Hunt_for_Binary_Black_Holes_and_other_Gravitational_Wave_Transients/6173840" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Hearing_the_Signal_through_the_Static_Real-time_Noise_Reduction_in_the_Hunt_for_Binary_Black_Holes_and_other_Gravitational_Wave_Transients_talk_/6173852" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -966,8 +977,9 @@ layout: default
 <td>Worcester Polytechnic Institute </td>
 <td>SI2-SSE: Adding Research Accounts to the ASSISTments&#39; Platform: Helping Researchers Do Randomized Controlled Studies with Thousands of Students</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/SI2_Adding_Research_Accounts_to_the_ASSISTments_Platform_Helping_Researchers_Do_Randomized_Controlled_Studies_with_Thousands_of_Students/6171005" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Bruce Childers</td>
 <td>University of Pittsburgh</td>
@@ -1038,8 +1050,9 @@ layout: default
 <td>University of Washington</td>
 <td>SI2-SSE: An Ecosystem of Reusable Image Analytics Pipelines</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Reusable_Image_Analytics_Pipelines/6171611" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Abhijit Majumder</td>
 <td>Wayne State University</td>
@@ -1052,7 +1065,7 @@ layout: default
 <td>Cold Regions Research and Engineering Laboratory</td>
 <td>Integrating Data with Complex Predictive Models under Uncertainty: An Extensible Software Framework for Large-Scale Bayesian Inversion</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/MUQ-hIPPylib_Poster_for_SI2_PI_Meeting_2018/6172247" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/MUQ-hIPPylib_Lightning_Slide_NSF_SI2_PI_meeting/6173474" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -1106,7 +1119,7 @@ layout: default
 <td>Louisiana State University</td>
 <td>SI2-SSI: Collaborative Research: Einstein Toolkit Community Integration and Data Exploration</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_poster/6167924" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_talk/6171380" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -1128,8 +1141,9 @@ layout: default
 <td>UNC-Chapel Hill</td>
 <td>Collaborative Research: SI2-SSI: Scalable infrastructure for enabling multiscale and multiphysics applications in fluid dynamics, solid mechanics, and fluid-structure interaction</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/Enabling_Multiscale_and_Multiphysics_Applications_in_Fluid_Dynamics_Solid_Mechanics_and_Fluid-Structure_Interaction/6173858" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Eric Polizzi</td>
 <td>University of Massachusetts, Amherst</td>
@@ -1158,7 +1172,7 @@ layout: default
 <td>Massachusetts General Hospital</td>
 <td>Collaborative Research: SI2-SSE: High-Performance Workflow Primitives for Image Registration and Segmentation</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/High-Performance_Workflow_Primitives_for_Image_Registration_and_Segmentation/6171074" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/High-Performance_Workflow_Primitives_for_Image_Registration_and_Segmentation_Lightning_Talk_/6171101" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -1173,7 +1187,7 @@ layout: default
 <td>University of Texas at Austin</td>
 <td>Abaco - Flexible, Scalable, and Usable Functions-As-A-Service via the Actor Model</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Abaco_-Flexible_scalable_and_usable_Functions-as-a-service_via_the_Actor_Model/6148895" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Abaco_2018_SI2_PI_Meeting-_Lightning_Talk/6169280" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -1196,8 +1210,9 @@ layout: default
 <td>Indiana University</td>
 <td>Collaborative Research: SI2-SSI: Open Gateway Computing Environments Science Gateways Platform as a Service (OGCE SciGaP)</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/SciGaP_NSF_SI2_2018_PI_Meeting_Lightning_Talk/6173690" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Sohrab Ismail-Beigi</td>
 <td>Yale University</td>
@@ -1267,8 +1282,9 @@ layout: default
 <td>Oak Ridge National Laboratory</td>
 <td>Collaborative Research: High Performance Low Rank Approximation for Scalable Data Analytics</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/High_Performance_Low_Rank_Approximation_for_Scalable_Data_Analytics/6171539" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Bryan Heidorn</td>
 <td>University of Arizona</td>
@@ -1310,7 +1326,7 @@ layout: default
 <td>The University of Chicago</td>
 <td>Integration of Synchrotron X-Ray Analysis Software Methods into the Larch Framework</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/NSF_SI2_2018_Newville_pdf/6171578" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Newville_NSFSI2_2018_LightningTalk_pdf/6173831" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

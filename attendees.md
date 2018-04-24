@@ -440,7 +440,6 @@ layout: default
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/SIE-SSI_EVOLVE_Open_MPI_for_Next_Generation_Architectures_and_Applications/6174263" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SIE-SSI_TESSE_Task_Based_Environment_for_Scientific_Simulation_at_Extreme_Scale/6174080" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
 </tr>
 <tr>
 <td>George Bosilca</td>

@@ -41,7 +41,7 @@ layout: default
 <td>Wayne State University</td>
 <td>SSE: Development of a High-Performance Parallel Gibbs Ensemble Monte Carlo Simulation Engine</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/GPU_Optimized_Monte_Carlo_GOMC_/6173999" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/GOMC_Optimized_Monte_Carlo_Talk/6174059" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -62,9 +62,9 @@ layout: default
 <tr>
 <td>Ritu Arora</td>
 <td>TACC, UT Austin</td>
-<td>  SI2-SSE: An Interactive Parallelization Tool</td>
+<td>SI2-SSE: An Interactive Parallelization Tool</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/NSF_SI2_PI_Meeting2018_pdf/6171572" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/NSF_SI2_Meeting_2018_Lightning_Talk/6169346" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -94,14 +94,15 @@ layout: default
 <td>University of Oregon</td>
 <td>SI2-SSI: Collaborative Research: A Software Infrastructure for MPI Performance Engineering: Integrating MVAPICH and TAU via the MPI Tools Interface</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/SI2-SSI_2018_Collaborative_Research_A_Software_Infrastructure_for_MPI_Performance_Engineering_Integrating_MVAPICH_and_TAU_via_the_MPI_Tools_Interface/6174041" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Dhabaleswar K (DK) Panda</td>
 <td>The Ohio State University</td>
 <td>SI2-SSI: Collaborative Project: FAMII: High performance and scalable fabric analysis, monitoring and introspection infrastructure for HPC and Big Data</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2-SSI_2018_FAMII_High-Performance_and_Scalable_Fabric_Analysis_Monitoring_and_Introspection_Infrastructure_for_HPC_and_Big_Data/6174017" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2-SSI_2018_FAMII_High-Performance_and_Scalable_Fabric_Analysis_Monitoring_and_Introspection_Infrastructure_for_HPC_and_Big_Data/6174038" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -125,8 +126,9 @@ layout: default
 <td>Caltech</td>
 <td>A Software for Accelerated Discovery of Microscopic Electronic Processes in Materials</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/PERTURBO_A_software_platform_for_accelerated_discovery_of_microscopic_processes_in_materials/6173990" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Damian Dechev</td>
 <td>University of Central Florida</td>
@@ -148,8 +150,9 @@ layout: default
 <td>Virginia Tech</td>
 <td>Collaborative Research: SI2-SSI: Software Framework for Electronic Structure of Molecules and Solids</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/EMOS_Poster/6174011" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>David Anderson</td>
 <td>UC Berkeley</td>
@@ -222,7 +225,7 @@ layout: default
 <td>Ohio Supercomputer Center</td>
 <td>SI2-SSE: Open OnDemand: Transforming Computational Science through Omnidisciplinary Software Cyberinfrastructure</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6173918" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td></tr>
 <tr>
 <td>Rafael Ferreira da Silva</td>
@@ -462,16 +465,23 @@ layout: default
 <td>University of Colorado Boulder</td>
 <td>SSE: Software Elements to Enable Immersive Simulation</td>
 <td>SI2-SSE</td>
-<td></td>
-<td><a href="hhttps://figshare.com/articles/SSE_Lighning_2018_NSF_PI_MeetingJansen/6174086" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/SSE_Poster_2018_NSF_PI_Meeting_Jansen/6173948" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/SSE_Lighning_2018_NSF_PI_MeetingJansen/6174086" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Kenneth Jansen</td>
 <td>University of Colorado Boulder</td>
 <td>A Data-Centric Approach to Turbulence Simulation</td>
 <td>CDS&amp;E</td>
-<td></td>
+<td><a href="https://figshare.com/articles/CDS_EPoster_2018_NSF_PI_MeetingJansen/6174053" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/CDS_E_Lighning_2018_NSF_PI_MeetingJansen/6174065" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<td>Kenneth Jansen</td>
+<td>University of Colorado Boulder</td>
+<td>NISC SI2-S2I2 Conceptualization of CFDSI: Model, Data, and Analysis Integration for End-to-End Support of Fluid Dynamics Discovery and Innovation</td>
+<td>SI2-Conceptualization</td>
+<td><a href="https://figshare.com/articles/CFDSI_Poster_2018_NSF_PI_MeetingJansen_pdf/6173900" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td></td>
 </tr>
 <tr>
 <td>Mike Sokoloff</td>
@@ -485,8 +495,9 @@ layout: default
 <td>The University of Chicago</td>
 <td>SI2-SSE: Highly Efficient and Scalable Software for Coarse-Grained Molecular Dynamics</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/SI2-SSE_Highly_Efficient_and_Scalable_Software_for_Coarse-Grained_Molecular_Dynamics/6173909" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Yifei Mo</td>
 <td>University of Maryland</td>
@@ -779,7 +790,7 @@ layout: default
 <td>Boise State University</td>
 <td>SI2-SSE: GEM3D: Open-Source Cartesian Adaptive Complex Terrain Atmospheric Flow Solver for GPU Clusters</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2Poster_pdf/6173951" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2_Lighting_Talk_GEM3D_Project/6173960" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -992,7 +1003,7 @@ layout: default
 <td>University of California, Merced</td>
 <td>Simulation and Inference Algorithms for Stochastic Differential Equations</td>
 <td>CDS&amp;E</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174032" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174089" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -1096,7 +1107,7 @@ layout: default
 <td>University of Tennessee Knoxville, Innovative Computing Lab (ICL)</td>
 <td>PAPI Unifying Layer for Software-Defined Events (PULSE)</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2-SSE_PAPI_Unifying_Layer_for_Software-Defined_Events_PULSE_/6174008" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2-SSE_PAPI_Unifying_Layer_for_Software-Defined_Events_PULSE_/6163772" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -1111,7 +1122,7 @@ layout: default
 <td>University of Florida</td>
 <td>Human- and Machine-Intelligent Software Elements for Cost-Effective Scientific Data Digitization</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Human-_and_Machine-Intelligent_Network_of_Software_Elements_for_Cost-Effective_Scientific_Data_Digitization/6174005" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Human-_and_Machine-Intelligent_Network_of_Software_Elements_for_Cost-Effective_Scientific_Data_Digitization/6174026" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -1134,8 +1145,9 @@ layout: default
 <td>SCEC/USC</td>
 <td>SI2-SSI: Community Software for Extreme-Scale Computing in Earthquake System Science</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/A_sustainable_Software_Environment_for_Integrated_Seismic_Modeling_SEISM_/6173963" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Boyce Griffith</td>
 <td>UNC-Chapel Hill</td>

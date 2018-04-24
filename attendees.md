@@ -96,7 +96,7 @@ layout: default
 <td>SI2-SSI: Collaborative Research: A Software Infrastructure for MPI Performance Engineering: Integrating MVAPICH and TAU via the MPI Tools Interface</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/SI2-SSI_2018_Collaborative_Research_A_Software_Infrastructure_for_MPI_Performance_Engineering_Integrating_MVAPICH_and_TAU_via_the_MPI_Tools_Interface/6174041" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2-SSI_2018_Collaborative_Research_A_Software_Infrastructure_for_MPI_Performance_Engineering_Integrating_MVAPICH_and_TAU_via_the_MPI_Tools_Interface/6174431" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Dhabaleswar K (DK) Panda</td>
@@ -152,7 +152,7 @@ layout: default
 <td>Collaborative Research: SI2-SSI: Software Framework for Electronic Structure of Molecules and Solids</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/EMOS_Poster/6174011" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/EMOS_Lightning_Talk_2018/6177086" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>David Anderson</td>
@@ -252,14 +252,15 @@ layout: default
 <td>SI2-SSE: Collaborative Research: Software framework for strongly correlated materials: from DFT to DMFT</td>
 <td>SI2-SSE</td>
 <td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Development_of_computational_methods_for_the_characterization_of_novel_strongly_correlated_materials_from_DFT_to_DMFT/6174890" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Wolfgang Bangerth</td>
 <td>Colorado State University</td>
 <td>Collaborative Research: SI2-SSI: Open source support for massively parallel, generic finite element methods</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/Poster_for_the_NSF_SI2_grantees_workshop_2018/6174173" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Lightning_talk_Wolfgang_Bangerth/6174710" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Peter Elmer</td>
@@ -274,7 +275,7 @@ layout: default
 <td>SI2-SSE: BONSAI: An Open Software Infrastructure for Parallel Autotuning of Computational Kernels</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/SI2-SSI_BONSAI_Benchtesting_OpeN_Software_Autotuning_Infrastructure/6174230" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Untitled_Item/6174257" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Alexander D. Kaiser</td>
@@ -282,7 +283,7 @@ layout: default
 <td>The SimCardio Open Source Multi-Physics Cardiac Modeling Package</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/SimCardio_Open-Source_Multi-Physics_Cardiac_Modeling_and_Simulation/6174092" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/SimCardio_Open-Source_Multi-Physics_Cardiac_Modeling_and_Simulation_--_Lightning_Talk_Slide/6174131" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Henri Casanova</td>
@@ -298,7 +299,7 @@ layout: default
 <td>Collaborative Research, HydroShare: Cyberinfrastructure for Advancing Hydrologic Knowledge through Collaborative Integration of Data Science, Modeling and Analysis</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/HydroShare_Cyberinfrastructure_for_Advancing_Hydrologic_Knowledge_through_Collaborative_Integration_of_Data_Science_Modeling_and_Analysis/6174311" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/HydroShare-SI2-Lightning_pdf/6174473" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Reuben D. Budiardja</td>
@@ -306,7 +307,7 @@ layout: default
 <td>SI2-SSE: A Software Element for Neutrino Radiation Hydrodynamics in GenASiS</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/Toward_Sustainable_Software_for_Science_-_Implementing_and_Assessing_Systematic_Testing_Approaches_for_Scientific_Software/6173813" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/2018_SI2-SSE_Lightning_Talk_Neutrino_Radiation_Hydrodynamics_in_GenASiS/6174245" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Aleksei Aksimentiev</td>
@@ -389,7 +390,8 @@ layout: default
 <td>SI2-SSI: Swift/E: Integrating Parallel Scripted Workflow into the Scientific Software Ecosystem</td>
 <td>SI2-SSI</td>
 <td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Parsl_A_Python-based_Parallel_Scripting_Library/6174305" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Ryan May</td>
 <td>UCAR/Unidata</td>
@@ -404,14 +406,16 @@ layout: default
 <td>The Molecular Sciences Software Institute</td>
 <td>SI2-Institute</td>
 <td></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>Joannes J Westerink</td>
 <td>University of Notre Dame</td>
 <td>SI2-SSI: Collaborative Research: STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</td>
 <td>SI2-SSI</td>
 <td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/STORM_a_Scalable_Toolkit_for_an_Open_Community_Supporting_Near_Real-time_High_Resolution_Coastal_Storm_Modeling/6174320" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>ANKUR SRIVASTAVA</td>
 <td>University of Maryland</td>
@@ -425,14 +429,16 @@ layout: default
 <td>REU Site: INCLUSION - Incubating a New Community of Leaders Using Software, Inclusion, Innovation, Interdisciplinary and OpeN-Science</td>
 <td>Other</td>
 <td></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>Xiaosong Li</td>
 <td>University of Washington</td>
 <td>SI2-SSI: Sustainable Open-Source Quantum Dynamics and Spectroscopy Software</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/SI2-SSI_Chronus_Quantum_ChronusQ_-_Sustainable_Open-Source_Quantum_Dynamics_and_Spectroscopy_Software/6169286" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>George Bosilca</td>
 <td>University of Tennessee</td>
@@ -518,7 +524,7 @@ layout: default
 <td>SI2-SSE: Highly Efficient and Scalable Software for Coarse-Grained Molecular Dynamics</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/SI2-SSE_Highly_Efficient_and_Scalable_Software_for_Coarse-Grained_Molecular_Dynamics/6173909" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Voth_Lightning_Talk_Slide/6176216" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Yifei Mo</td>
@@ -624,7 +630,8 @@ layout: default
 <td>SI2-SSE: Improving Scikit-learn usability and automation</td>
 <td>SI2-SSE</td>
 <td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/NSF_SI2_SSE_Improving_Scikit-learn_usability_and_automation/6174125" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Charles Torre</td>
 <td>Utah State University</td>
@@ -876,7 +883,8 @@ layout: default
 <td>STAMLA: Scalable Tree Algorithms for Machine Learning Applications</td>
 <td>SI2-SSE</td>
 <td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Scalable_Tree_Algorithms_for_Machine_Learning_Applications/6174779" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Brian Demsky</td>
 <td>University of California, Irvine</td>
@@ -891,7 +899,7 @@ layout: default
 <td>SI2-CHE: CCP-SAS - Collaborative Computing consortium for advanced analyses of structural data in chemical biology and soft condensed matter</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/CCP-SAS_a_collaborative_Computational_Project_for_the_Analysis_of_Small_Angle_Scattering_Data/6174485" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/CCP-SAS_a_collaborative_Computational_Project_for_the_Analysis_of_Small_Angle_Scattering_Data/6174452" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Paul Rulis</td>
@@ -959,7 +967,7 @@ layout: default
 <td>Automated statistical mechanics for the first-principles prediction of finite temperature properties in hybrid organic-inorganic crystals</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/Automated_Statistical_Mechanics_of_the_First-Principles_Prediction_of_Finite_Temperature_Properties_of_Crystals/6175868" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Automated_Statistical_Mechanics_for_the_First-Principes_Prediction_of_Finite_Temperature_Properties_of_Crystals/6176069" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Ali Shojaie</td>
@@ -981,7 +989,7 @@ layout: default
 <td>Collaborative Research: SI2-SSI: ELSI-Infrastructure for Scalable Electronic Structure Theory</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/The_ELSI_Infrastructure_for_Scalable_Electronic_Structure_Theory/6174107" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/The_ELSI_Infrastructure_for_Scalable_Electronic_Structure_Theory/6174134" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Ewa Deelman</td>
@@ -989,7 +997,8 @@ layout: default
 <td>SI2-SSI: Pegasus: Automating Compute and Data Intensive Science</td>
 <td>SI2-SSI</td>
 <td></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>Frank Löffler</td>
 <td>Friedrich Schiller University Jena</td>
@@ -1011,7 +1020,7 @@ layout: default
 <td>SI2-SSI: A Sustainable Infrastructure for Performance, Security, and Correctness Tools</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/UntitleSI2-SSI_A_Sustainable_Infrastructure_for_Performance_Security_and_Correctness_Tools/6174119" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Binary_Analysis_for_Performance_Security_and_Correctness_Tools/6175649" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Neil Heffernan</td>
@@ -1027,7 +1036,7 @@ layout: default
 <td>EASE: Improving Research Accountability through Artifact Evaluation</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation/6173972" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation_-_Lightning_Talk/6173987" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Harish S. Bhat</td>
@@ -1186,7 +1195,7 @@ layout: default
 <td>Collaborative Research: SI2-SSI: Scalable infrastructure for enabling multiscale and multiphysics applications in fluid dynamics, solid mechanics, and fluid-structure interaction</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/Enabling_Multiscale_and_Multiphysics_Applications_in_Fluid_Dynamics_Solid_Mechanics_and_Fluid-Structure_Interaction/6173858" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Enabling_Multiscale_and_Multiphysics_Applications_in_Fluid_Dynamics_Solid_Mechanics_and_Fluid-Structure_Interaction/6174233" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Eric Polizzi</td>
@@ -1354,7 +1363,7 @@ layout: default
 <td>Mining Seismic Wavefields</td>
 <td>Other</td>
 <td><a href="https://figshare.com/articles/Mining_Seismic_Wavefields_Poster_SI2_2018_PI_Meeting/6176114" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Mining_Seismic_Wavefields_SI2_PI_Meeting_2018_Lightning_Talk/6174755" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Andrew Miner</td>
@@ -1385,7 +1394,7 @@ layout: default
 <td>NSCI: SI2-SSE: An Extensible Model to Support Scalable Checkpoint-Restart for DMTCP across Multiple Disciplines</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/NSCI_SI2-SSE_An_Extensible_Model_to_Support_Scalable_Checkpoint-Restart_for_DMTCP_across_Multiple_Disciplines/6174206" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/NSCI_SI2-SSE_An_Extensible_Model_to_Support_Scalable_Checkpoint-Restart_for_DMTCP_across_Multiple_Disciplines/6176465" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Raheem Beyah</td>
@@ -1436,7 +1445,7 @@ layout: default
 <td>SI2-SSE: Petascale Enzo: Software Infrastructure Development and Community Engagement</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/Petascale_astrophysics_software_infrastructure_development_and_community_engagement/6174281" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Petascale_astrophysics_software_infrastructure_development_and_community_engagement/6174317" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Hassen Saidi</td>
@@ -1444,7 +1453,7 @@ layout: default
 <td>Synthesizing Self-Contained Scientific Software</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/Synthesizing_Self-Contained_Scientific_Software/6174287" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Synthesizing_Self-Contained_Scientific_Software_-_2018_-_Lightning_Talk/6176081" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 </tbody>
                 </table>

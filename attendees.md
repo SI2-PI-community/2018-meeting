@@ -683,7 +683,7 @@ layout: default
 <td>University of Chicago</td>
 <td>CRESCAT, A Computational Research Ecosystem for Scientific Collaboration on Ancient Topics, Spanning the Full Data Life Cycle</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/CRESCAT/6173930" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/University_of_Chicago_CRESCAT_Project/6173996" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -950,7 +950,7 @@ layout: default
 <td>Univerisity of Cincinnati</td>
 <td>SI2-SSE: Scalable Big Data Clustering by Random Projection  Hashing</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Untitled_ItemScalable_Big_Data_Clustering_by_Random_Projection_Hashing/6179132" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Scalable_Big_Data_Clustering_by_Random_Projection_Hashing/6174083" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

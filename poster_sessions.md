@@ -303,27 +303,6 @@ layout: default
   <td></td>
   <td></td>
 </tr>
-<tr>
-  <td>Haiying Shen</td>
-  <td>CDS&E</td>
-  <td>NSF #1404981 Application Characterization for Adaptive Computing Platform Determination for Computational and Data-Enabled Science and Engineering</td>
-  <td></td>
-  <td><a href="https://figshare.com/articles/Untitled_Item/6072056" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Xiangyu Zhang</td>
-  <td>EAGER</td>
-  <td>A Python Program Analysis Infrastructure to Facilitate Better Data Processing</td>
-  <td><a href="https://figshare.com/articles/A_Python_Program_Analysis_Infrastructure_to_Facilitate_Better_Data_Processing/6163844" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/A_Python_Program_Analysis_Infrastructure_to_Facilitate_Better_Data_ProcessingUntitled_Item/6163856" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Carl Boettiger</td>
-  <td>EAGER</td>
-  <td>Codemeta: a Rosetta Stone for Metadata in Scientific Software</td>
-  <td><a href="https://figshare.com/articles/Codemeta_A_Rosetta_Stone_for_Software_Metadata/4490588" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
-</tr>
 </tbody></table></div>
 
 <div class="row half">
@@ -493,6 +472,13 @@ layout: default
   <td><a href="https://figshare.com/articles/SI2-SSE_GenApp_-_A_Transformative_Generalized_Application_Cyberinfrastructure/6171614" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
+  <td>Haiying Shen</td>
+  <td>CDS&E</td>
+  <td>NSF #1404981 Application Characterization for Adaptive Computing Platform Determination for Computational and Data-Enabled Science and Engineering</td>
+  <td></td>
+  <td><a href="https://figshare.com/articles/Untitled_Item/6072056" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
   <td>Kenneth Jansen</td>
   <td>SI2-SSE</td>
   <td>SSE: Software Elements to Enable Immersive Simulation</td>
@@ -556,18 +542,18 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Steven R. Brandt</td>
-  <td>SI2-SSI</td>
-  <td>Collaborative Research: Einstein Toolkit Communitiy Integration and Data Exploration</td>
-  <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_poster/6167924" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_talk/6171380" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
   <td>Frank Petriello</td>
   <td>SI2-SSE</td>
   <td>The N-Jettiness Software Framework for Precision Perturbative QCD Calculations in Particle and Nuclear Physics</td>
   <td></td>
   <td></td>
+</tr>
+<tr>
+  <td>Xiangyu Zhang</td>
+  <td>EAGER</td>
+  <td>A Python Program Analysis Infrastructure to Facilitate Better Data Processing</td>
+  <td><a href="https://figshare.com/articles/A_Python_Program_Analysis_Infrastructure_to_Facilitate_Better_Data_Processing/6163844" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/A_Python_Program_Analysis_Infrastructure_to_Facilitate_Better_Data_ProcessingUntitled_Item/6163856" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Andreas Stathopoulos</td>
@@ -598,32 +584,11 @@ layout: default
   <td><a href="https://figshare.com/articles/Open_Source_Matrix_Product_States_A_Simulation_Platform_for_Quantum_Computing_Technologies/6173678" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Andreas Mueller</td>
-  <td>SI2-SSE</td>
-  <td>SI2-SSE: Improving Scikit-learn usability and automation</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Kyle Mandli</td>
   <td>CRISP</td>
   <td>CRISP Type 1: Protecting Coastal Infrastructure in a Changing Climate by Integrating Optimization Modeling and Stakeholder Observations</td>
   <td><a href="https://figshare.com/articles/SI_2_PI_Meeting_Poster/6169577" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/SI_2_2018_Lightning_Talk/6169601" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Louise Kellogg</td>
-  <td>EAGER</td>
-  <td>EAGER: Development of software citation methodology for open source computational science</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Frank Tip</td>
-  <td>Other</td>
-  <td>SHF: Small: Automated Detection and Repair of Errors in Event-Driven Applications</td>
-  <td><a href="https://figshare.com/articles/Automated_Detection_and_Repair_of_Errors_in_Event-Driven_Applications/6171419" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
 </tr>
 </tbody></table></div>
 
@@ -647,9 +612,23 @@ layout: default
   <td></td>
 </tr>
 <tr>
+  <td>Steven R. Brandt</td>
+  <td>SI2-SSI</td>
+  <td>Collaborative Research: Einstein Toolkit Communitiy Integration and Data Exploration</td>
+  <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_poster/6167924" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_talk/6171380" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
   <td>Omar Ghattas</td>
   <td>SI2-SSI</td>
   <td>Collaborative Research: SI2-SSI: Integrating Data with Complex Predictive Models under Uncertainty: An Extensible Software Framework for Large-Scale Bayesian Inversion</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Andreas Mueller</td>
+  <td>SI2-SSE</td>
+  <td>SI2-SSE: Improving Scikit-learn usability and automation</td>
   <td></td>
   <td></td>
 </tr>
@@ -659,6 +638,13 @@ layout: default
   <td>Symbolic Toolboxes for Differential Geometry and Mathematical Physics</td>
   <td><a href="https://figshare.com/articles/Symbolic_Toolboxes_For_Differential_Geometry_and_Mathematical_Physics/6169517" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Symbolic_Toolboxes_For_Differential_Geometry_and_Mathematical_Physics/6169520" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
+  <td>Carl Boettiger</td>
+  <td>EAGER</td>
+  <td>Codemeta: a Rosetta Stone for Metadata in Scientific Software</td>
+  <td><a href="https://figshare.com/articles/Codemeta_A_Rosetta_Stone_for_Software_Metadata/4490588" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td></td>
 </tr>
 <tr>
   <td>Christopher Iacovella</td>
@@ -692,7 +678,7 @@ layout: default
   <td>David Schloen</td>
   <td>SI2-SSI</td>
   <td>CRESCAT, A Computational Research Ecosystem for Scientific Collaboration on Ancient Topics, Spanning the Full Data Life Cycle</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/CRESCAT/6173930" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/University_of_Chicago_CRESCAT_Project/6173996" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -708,13 +694,6 @@ layout: default
   <td>Scaling Up Science with the Cooperative Computing Tools</td>
   <td><a href="https://figshare.com/articles/SI2-CCTools-2018_pdf/6167639" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/NSF-SI2-Thain-Oneslide_pdf/6167642" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Steven Shannon</td>
-  <td>SI2-SSE</td>
-  <td>SI2 -SSE: An open source multi-physics platform to advance fundamental understanding of plasma physics and enable impactful application of plasma systems</td>
-  <td><a href="https://figshare.com/articles/An_open_source_multi-physics_platform_to_advance_fundamental_understanding_of_plasma_physics_and_enable_impactful_application_of_plasma_systems/6173822" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
 </tr>
 <tr>
   <td>Ramakrishnan Kannan</td>
@@ -787,18 +766,18 @@ layout: default
   <td><a href="https://figshare.com/articles/SI2_Lighting_Talk_GEM3D_Project/6173960" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
+  <td>Frank Tip</td>
+  <td>Other</td>
+  <td>SHF: Small: Automated Detection and Repair of Errors in Event-Driven Applications</td>
+  <td><a href="https://figshare.com/articles/Automated_Detection_and_Repair_of_Errors_in_Event-Driven_Applications/6171419" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td></td>
+</tr>
+<tr>
   <td>Ye Zhao</td>
   <td>SI2-SSE</td>
   <td>GeoVisuals Software: Capturing, Managing, and Utilizing GeoSpatial Multimedia Data for Collaborative Field Research</td>
   <td><a href="https://figshare.com/articles/GeoVisuals_Software_Capturing_Managing_and_Utilizing_GeoSpatial_Multimedia_Data_for_Collaborative_Field_Research/6165998" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
-</tr>
-<tr>
-  <td>Jin-Jian Zhou</td>
-  <td>SI2-SSE</td>
-  <td>PERTURBO: A Software for Accelerated Discovery of Microscopic Electronic Processes in Materials</td>
-  <td></td>
-  <td><a href="https://figshare.com/articles/2018_NSF-SI2_Lightning_Talk_PERTURBO/6174068" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Christina Bandaragoda</td>
@@ -885,13 +864,6 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Dane Morgan</td>
-  <td>SI2-SSI</td>
-  <td>Collaborative Research: A Computational Materials Data and Design Environment</td>
-  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design/6168923" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design_Environment/6168932" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
   <td>Ali Shojaie</td>
   <td>CDS&E</td>
   <td>Statistical Methods for Discrete-Valued High-Dimensional Time Series with Applications to Neuroscience</td>
@@ -899,31 +871,10 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Volker Blum</td>
-  <td>SI2-SSI</td>
-  <td>Collaborative Research: SI2-SSI: ELSI-Infrastructure for Scalable Electronic Structure Theory</td>
-  <td><a href="https://figshare.com/articles/The_ELSI_Infrastructure_for_Scalable_Electronic_Structure_Theory/6174107" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Harish S. Bhat</td>
-  <td>CDS&E</td>
-  <td>Simulation and Inference Algorithms for Stochastic Differential Equations</td>
-  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174032" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174089" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
   <td>Nancy Wilkins-Diehr</td>
   <td>SI2-Institute</td>
   <td>Science Gateways Community Institute</td>
   <td><a href="https://figshare.com/articles/SGCI-About-Poster-04-2018_pdf/5995357" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Tim Menzies</td>
-  <td>EAGER</td>
-  <td>Empirical Methods for Computational Science</td>
-  <td></td>
   <td></td>
 </tr>
 </tbody></table></div>
@@ -948,10 +899,24 @@ layout: default
   <td><a href="https://figshare.com/articles/NSF-SI2_PI_2018_-_Carver_Lightning/6171077" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
+  <td>Louise Kellogg</td>
+  <td>EAGER</td>
+  <td>EAGER: Development of software citation methodology for open source computational science</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Dane Morgan</td>
+  <td>SI2-SSI</td>
+  <td>Collaborative Research: A Computational Materials Data and Design Environment</td>
+  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design/6168923" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design_Environment/6168932" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
   <td>Philip A. Wilsey</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: Scalable Big Data Clustering by Random Projection Hashing</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Untitled_ItemScalable_Big_Data_Clustering_by_Random_Projection_Hashing/6179132" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Scalable_Big_Data_Clustering_by_Random_Projection_Hashing/6174083" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -966,6 +931,13 @@ layout: default
   <td>SI2-SSE</td>
   <td>SI2-SSE: GraphPack: Unified Graph Processing with Parallel Boost Graph Library, GraphBLAS, and High-Level Generic Algorithm Interfaces</td>
   <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Volker Blum</td>
+  <td>SI2-SSI</td>
+  <td>Collaborative Research: SI2-SSI: ELSI-Infrastructure for Scalable Electronic Structure Theory</td>
+  <td><a href="https://figshare.com/articles/The_ELSI_Infrastructure_for_Scalable_Electronic_Structure_Theory/6174107" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>
@@ -995,6 +967,13 @@ layout: default
   <td>EASE: Improving Research Accountability through Artifact Evaluation</td>
   <td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation/6173972" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
+</tr>
+<tr>
+  <td>Harish S. Bhat</td>
+  <td>CDS&E</td>
+  <td>Simulation and Inference Algorithms for Stochastic Differential Equations</td>
+  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174032" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174089" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Maxine Brown</td>
@@ -1072,13 +1051,6 @@ layout: default
   <td>A parallel computing framework for large-scale real-space and real-time TDDFT excited-states calculations</td>
   <td><a href="https://figshare.com/articles/A_parallel_computing_framework_for_large-scale_real-space_and_real-time_TDDFT_excited-states_calculations/6169607" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Lightening_Talk-_Polizzi/6169652" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Devangi Parikh</td>
-  <td>SI2-SSI</td>
-  <td>Collaborative Research: SI2-SSI: Sustaining Innovation in t\ he Linear Algebra Software Stack for Computational Chemistry and other Sciences</td>
-  <td></td>
-  <td></td>
 </tr>
 <tr>
   <td>Gregory Sharp</td>
@@ -1179,9 +1151,9 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Warren Mori</td>
-  <td>SI2-SSI</td>
-  <td>Particle-in-cell and kinetic simulation software center</td>
+  <td>Tim Menzies</td>
+  <td>EAGER</td>
+  <td>Empirical Methods for Computational Science</td>
   <td></td>
   <td></td>
 </tr>

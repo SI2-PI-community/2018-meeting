@@ -25,8 +25,9 @@ layout: default
                         <td><span class="tnormal"></span></td>
                         <td><span class="tnormal"></span></td>
                         <td><span class="tnormal"></span></td>
-                    <td></td>
-<td></td></tr>
+                        <td></td>
+                        <td></td>
+                    </tr>
                     <tbody class="bnormal">
 <tr>
 <td>Frank Timmes</td>
@@ -496,6 +497,7 @@ layout: default
 <td><a href="https://figshare.com/articles/CDS_EPoster_2018_NSF_PI_MeetingJansen/6174053" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/CDS_E_Lighning_2018_NSF_PI_MeetingJansen/6174065" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
+<tr>
 <td>Kenneth Jansen</td>
 <td>University of Colorado Boulder</td>
 <td>NISC SI2-S2I2 Conceptualization of CFDSI: Model, Data, and Analysis Integration for End-to-End Support of Fluid Dynamics Discovery and Innovation</td>

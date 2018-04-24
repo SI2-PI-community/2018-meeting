@@ -278,7 +278,7 @@ Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.
                     </tr>  
                     <tr>
                         <td>4:30pm</td>
-                        <td>SI2 Program Directions</td>
+                        <td>Panel Discussion and Combining Software and Data Programs</td>
                         <td>Vipin Chaudhary</td>
                     </tr>  
                     <tr>

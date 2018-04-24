@@ -1032,13 +1032,6 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Matthew Parno</td>
-  <td>SI2-SSI</td>
-  <td>Integrating Data with Complex Predictive Models under Uncertainty: An Extensible Software Framework for Large-Scale Bayesian Inversion</td>
-  <td><a href="https://figshare.com/articles/MUQ-hIPPylib_Poster_for_SI2_PI_Meeting_2018/6172247" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/MUQ-hIPPylib_Lightning_Slide_NSF_SI2_PI_meeting/6173474" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
   <td>Jindal K. Shah</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: Development of Cassandra, A General, Efficient and Parallel Monte Carlo Multiscale Modeling Software Platform for Materials Research</td>

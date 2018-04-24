@@ -218,7 +218,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>2:00pm</td>
-                        <td class="lnormal">SSE Highlight: <span class="tnormal">Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</span></td>
+                        <td class="lnormal">SSE Highlight: <span class="tnormal"><a href="https://figshare.com/articles/Making_Software_Engineering_Work_for_Computational_Science_Engineering_An_Integrated_Approach/6174260" target="_blank">Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</a></span></td>
                         <td>Jeff Carver</td>
                     </tr>  
                     <tr>

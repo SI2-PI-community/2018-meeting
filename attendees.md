@@ -10,7 +10,7 @@ layout: default
                 <h2 style="margin: 0"><strong>Attendees</strong></h2>
             </header>
             <div class="row half">
-                <p style="margin: 0">As of Apr 23, 2018</p>
+                <p style="margin: 0">As of Apr 24, 2018</p>
                 <table class="default stripped">
                     <tr>
                         <th width="15%">Name</th>

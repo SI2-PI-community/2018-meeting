@@ -142,7 +142,7 @@ layout: default
 <td>University of Hawaii at Manoa</td>
 <td>SI2-SSI: SAGEnext: Next Generation Integrated Persistent Visualization and Collaboration Services for Global Cyberinfrastructure</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/SAGE2_Scalable_Amplified_Group_Environment/6174071" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2-SSI_SAGE2_Scalable_Amplified_Group_Environment_/6169574" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -158,8 +158,9 @@ layout: default
 <td>UC Berkeley</td>
 <td>Collaborative Research: SI2-SSI: Expanding Volunteer Computing</td>
 <td>SI2-SSI</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Expanding_Volunteer_Computing/6174101" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/Expanding_Volunteer_Computing/6174161" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Ye Zhao</td>
 <td>Kent State University</td>
@@ -188,8 +189,9 @@ layout: default
 <td>UNC-Chapel Hill</td>
 <td>Collaborative Research: SI2-SSI: Scalable infrastructure for enabling multiscale and multiphysics applications in fluid dynamics, solid mechanics, and fluid-structure interaction</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/Enabling_Multiscale_and_Multiphysics_Applications_in_Fluid_Dynamics_Solid_Mechanics_and_Fluid-Structure_Interaction/6173858" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Muhammad Osama</td>
 <td>University of California Davis</td>
@@ -255,8 +257,9 @@ layout: default
 <td>Colorado State University</td>
 <td>Collaborative Research: SI2-SSI: Open source support for massively parallel, generic finite element methods</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/Poster_for_the_NSF_SI2_grantees_workshop_2018/6174173" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Peter Elmer</td>
 <td>Princeton University</td>
@@ -269,15 +272,17 @@ layout: default
 <td>University of Tennessee</td>
 <td>SI2-SSE: BONSAI: An Open Software Infrastructure for Parallel Autotuning of Computational Kernels</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/SI2-SSI_BONSAI_Benchtesting_OpeN_Software_Autotuning_Infrastructure/6174230" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Alexander D. Kaiser</td>
 <td>Stanford University</td>
 <td>The SimCardio Open Source Multi-Physics Cardiac Modeling Package</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/SimCardio_Open-Source_Multi-Physics_Cardiac_Modeling_and_Simulation/6174092" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Henri Casanova</td>
 <td>University of Hawai`i at Manoa</td>
@@ -291,8 +296,9 @@ layout: default
 <td>Utah State University</td>
 <td>Collaborative Research, HydroShare: Cyberinfrastructure for Advancing Hydrologic Knowledge through Collaborative Integration of Data Science, Modeling and Analysis</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/HydroShare_Cyberinfrastructure_for_Advancing_Hydrologic_Knowledge_through_Collaborative_Integration_of_Data_Science_Modeling_and_Analysis/6174311" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Reuben D. Budiardja</td>
 <td>University of Tennessee</td>
@@ -306,7 +312,7 @@ layout: default
 <td>University of Illinois at Urbana-Champaign</td>
 <td>Collaborative Research: Integrated Tools for DNA Nanostructure Design and Simulation</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2-SSE_Collaborative_Research_Integrated_Tools_for_DNA_Nanostructure_Design_and_Simulation/6173780" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/SI2-SSE_Collaborative_Research_Integrated_Tools_for_DNA_Nanostructure_Design_and_Simulation/6173735" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -314,8 +320,9 @@ layout: default
 <td>Colorado State University</td>
 <td>SI2­-SSI: Lidar Radar Open Software Environment (LROSE)</td>
 <td>SI2-SSI</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/NSF_SI2-SSI_LROSE_Blaze_Release_2018/6174467" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/NSF_SI2-SSI_LROSE_Blaze_Release_2018_Lightning_Talk/6174620" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Emery R. Boose</td>
 <td>Harvard University</td>
@@ -351,8 +358,9 @@ layout: default
 <td>University of California, Santa Cruz</td>
 <td>Big Weather Web: A Common and Sustainable Big Data Infrastructure in Support of Weather Prediction Research and Education in Universities</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/Big_Weather_Web_A_common_and_sustainable_big_data_infrastructure_in_support_of_weather_prediction_research_and_education_in_universities/6174299" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Yung-Hsiang Lu</td>
 <td>Purdue University</td>
@@ -386,8 +394,9 @@ layout: default
 <td>UCAR/Unidata</td>
 <td>MetPy - A Python GEMPAK Replacement for Meteorological Data Analysis</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/MetPy_s_Data_Model_Bridging_XArray_CartoPy_and_Pint/6174077" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>T. Daniel Crawford</td>
 <td>Virginia Tech</td>
@@ -428,15 +437,26 @@ layout: default
 <td>University of Tennessee</td>
 <td>Collaborative Research: SI2-SSI: EVOLVE: Enhancing the Open MPI Software for Next Generation Architectures and Applications</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/SIE-SSI_EVOLVE_Open_MPI_for_Next_Generation_Architectures_and_Applications/6174263" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/SIE-SSI_TESSE_Task_Based_Environment_for_Scientific_Simulation_at_Extreme_Scale/6174080" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
+<tr>
+<td>George Bosilca</td>
+<td>University of Tennessee</td>
+<td>SIE-SSI: TESSE Task Based Environment for Scientific Simulation at Extreme Scale</td>
+<td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/SIE-SSI_TESSE_Task_Based_Environment_for_Scientific_Simulation_at_Extreme_Scale/6174080" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td></td>
+</tr>
 <tr>
 <td>P. Bryan Heidorn</td>
 <td>University of Arizona</td>
 <td>SI2-SSE: Visualizing Astronomy Repository Data using WorldWide Telescope Software Systems</td>
 <td>SI2-SSE</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Astrolabe_Poster_-_2018_NSF_SI2_PI_Meeting/6174176" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/Heidorn_Lightning_Talk_Slide_-_2018_NSF_SI2_PI_Meeting/6174188" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Shaowen Wang</td>
 <td>University of Illinois at Urbana-Champaign</td>
@@ -488,8 +508,9 @@ layout: default
 <td>University of Cincinnati</td>
 <td>Collaborative Research: SI2:SSE: Extending the physics reach of LHCb in Run 3 using machine learning in the real-time data ingestion and reduction system</td>
 <td>SI2-SSE</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/NSF-SI2-2018-SokoloffAndWilliams/6171407" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/NSF-SI2-2018-Talk-SokoloffAndWilliams/6174221" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Gregory Voth</td>
 <td>The University of Chicago</td>
@@ -501,10 +522,11 @@ layout: default
 <tr>
 <td>Yifei Mo</td>
 <td>University of Maryland</td>
-<td>SI2­SSI: Collaborative Research: A Robust High­ Throughput Ab Initio Computation and Analysis Software Framework for Interface Materials Science</td>
+<td>SI2­SSI: Collaborative Research: A Robust High­Throughput Ab Initio Computation and Analysis Software Framework for Interface Materials Science</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Robust_High-throughput_Ab_initio_Computation_and_Analysis_Software_Framework_for_Interface_Materials_Science/6174500" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Mark Neubauer</td>
 <td>University of Illinois at Urbana-Champaign</td>
@@ -783,8 +805,9 @@ layout: default
 <td>Harvard University </td>
 <td>SI2-SSE: Collaborative Research: A Sustainable Future for the Glue Multi-Dimensional Linked Data Visualization Package</td>
 <td>SI2-SSE</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/glue_Linked-View_Exploratory_Visualization_of_High-Dimensional_Data_for_Everyone/6173750" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/glue_Linked-View_Exploratory_Visualization_of_High-Dimensional_Data_for_Everyone/6174290" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Grady Wright</td>
 <td>Boise State University</td>
@@ -821,15 +844,17 @@ layout: default
 <td>University of Washington</td>
 <td>RAPID: COLLABORATIVE RESEARCH: Building Infrastructure to Prevent Disasters like Hurricane Maria</td>
 <td>Other</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/NSF_SI2_Collaborative_RAPID_Building_infrastructure_to_prevent_disasters_like_Hurricane_Maria/6174965" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/NSF_SI2_Collaborative_RAPID_Lightning_Talk_Building_infrastructure_to_prevent_disasters_like_Hurricane_Maria/6175712" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Vincent Weaver</td>
 <td>University of Maine</td>
 <td>SI2-SSI: Collaborative Proposal: Performance Application Programming Interface for Extreme-Scale Environments (PAPI-EX)</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/SI2-SSI_Performance_Application_Programming_Interface_for_Extreme-scale_Environments_PAPI-EX/6174239" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ray Zimmerman</td>
 <td>Cornell University</td>
@@ -864,8 +889,9 @@ layout: default
 <td>University of TN/ NIST</td>
 <td>SI2-CHE: CCP-SAS - Collaborative Computing consortium for advanced analyses of structural data in chemical biology and soft condensed matter</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/CCP-SAS_a_collaborative_Computational_Project_for_the_Analysis_of_Small_Angle_Scattering_Data/6174485" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Paul Rulis</td>
 <td>University of Missouri - Kansas City</td>
@@ -931,8 +957,9 @@ layout: default
 <td>university of california santa barbara</td>
 <td>Automated statistical mechanics for the first-principles prediction of finite temperature properties in hybrid organic-inorganic crystals</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Automated_Statistical_Mechanics_of_the_First-Principles_Prediction_of_Finite_Temperature_Properties_of_Crystals/6175868" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ali Shojaie</td>
 <td>University of Washington</td>
@@ -952,8 +979,9 @@ layout: default
 <td>Duke University</td>
 <td>Collaborative Research: SI2-SSI: ELSI-Infrastructure for Scalable Electronic Structure Theory</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/The_ELSI_Infrastructure_for_Scalable_Electronic_Structure_Theory/6174107" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ewa Deelman</td>
 <td>University of Southern California</td>
@@ -981,8 +1009,9 @@ layout: default
 <td>Rice University</td>
 <td>SI2-SSI: A Sustainable Infrastructure for Performance, Security, and Correctness Tools</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/UntitleSI2-SSI_A_Sustainable_Infrastructure_for_Performance_Security_and_Correctness_Tools/6174119" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Neil Heffernan</td>
 <td>Worcester Polytechnic Institute </td>
@@ -996,8 +1025,9 @@ layout: default
 <td>University of Pittsburgh</td>
 <td>EASE: Improving Research Accountability through Artifact Evaluation</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation/6173972" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Harish S. Bhat</td>
 <td>University of California, Merced</td>
@@ -1138,8 +1168,9 @@ layout: default
 <td>Wayne State University</td>
 <td>Jet Energy-Loss Tomography with a Statistically and Computationally Advanced Program Envelope (JETSCAPE)</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/Jet_Energy-loss_Tomography_with_a_Statistically_Computationally_Advanced_Program_Envelope/6174116" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Christine Goulet</td>
 <td>SCEC/USC</td>
@@ -1230,15 +1261,17 @@ layout: default
 <td>Yale University</td>
 <td>Scalable, Extensible, and Open Framework for Ground and Excited State Properties of Complex Systems</td>
 <td>SI2-SSI</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Scalable_Extensible_and_Open_Framework_for_Ground_and_Excited_State_Properties_of_Complex_Systems/6174254" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/Scalable_Extensible_and_Open_Framework_for_Ground_and_Excited_State_Properties_of_Complex_Systems/6174482" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Vincent Reverdy</td>
 <td>University of Illinois at Urbana-Champaign</td>
 <td>STAMLA: Scalable Tree Algorithms for Machine Learning Applications</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Scalable_Tree_Algorithms_for_Machine_Learning_Applications/6174494" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Laxmikant Kale</td>
 <td>University of Illinois</td>
@@ -1258,8 +1291,9 @@ layout: default
 <td>University of California, Berkeley</td>
 <td> SI2-S2I2 Conceptualization: Conceptualizing a US Research Software Sustainability Institute (URSSI)</td>
 <td>SI2-Conceptualization</td>
+<td><a href="https://figshare.com/articles/Conceptualizing_a_US_Research_Software_Sustainability_Institute/6174155" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Daniel S. Katz</td>
 <td>University of Illinois Urbana-Champaign</td>
@@ -1287,8 +1321,9 @@ layout: default
 <td>University of Tennessee</td>
 <td>MAtrix, TEnsor, and Deep-learning Optimized Routines</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/MAtrix_TEnsor_and_Deep-learning_Optimized_Routines_MATEDOR_/6174143" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ramakrishnan Kannan</td>
 <td>Oak Ridge National Laboratory</td>
@@ -1309,15 +1344,17 @@ layout: default
 <td>University of Notre Dame</td>
 <td>SI2-SSI: Collaborative Research: STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/STORM_a_Scalable_Toolkit_for_an_Open_Community_Supporting_Near_Real-time_High_Resolution_Coastal_Storm_Modeling/6174014" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Philip Maechling</td>
 <td>Southern California Earthquake Center</td>
 <td>Mining Seismic Wavefields</td>
 <td>Other</td>
+<td><a href="https://figshare.com/articles/Mining_Seismic_Wavefields_Poster_SI2_2018_PI_Meeting/6176114" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Andrew Miner</td>
 <td>Iowa State University</td>
@@ -1346,15 +1383,17 @@ layout: default
 <td>Northeastern University</td>
 <td>NSCI: SI2-SSE: An Extensible Model to Support Scalable Checkpoint-Restart for DMTCP across Multiple Disciplines</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/NSCI_SI2-SSE_An_Extensible_Model_to_Support_Scalable_Checkpoint-Restart_for_DMTCP_across_Multiple_Disciplines/6174206" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Raheem Beyah</td>
 <td>Georgia Institute Of Technology</td>
 <td>SI2-SSE: ShareSafe: A Framework for Researchers and Data Owners to Help Facilitate Secure Graph Data Sharing</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/SI2-SSE_ShareSafe_A_Framework_for_Researchers_and_Data_Owners_to_Help_Facilitate_Secure_Graph_Data_Sharing/6168947" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>Stefan Robila</td>
 <td>National Science Foundation</td>
@@ -1395,8 +1434,17 @@ layout: default
 <td>University of California, San Diego</td>
 <td>SI2-SSE: Petascale Enzo: Software Infrastructure Development and Community Engagement</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Petascale_astrophysics_software_infrastructure_development_and_community_engagement/6174281" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
+<tr>
+<td>Hassen Saidi</td>
+<td>SRI</td>
+<td>Synthesizing Self-Contained Scientific Software</td>
+<td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Synthesizing_Self-Contained_Scientific_Software/6174287" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td></td>
+</tr>
 </tbody>
                 </table>
             </div>

@@ -1173,3 +1173,23 @@
 	font-weight: normal;
 	line-height: 1.5em
 }
+
+table td {
+	word-wrap: break-word;         /* All browsers since IE 5.5+ */
+	overflow-wrap: break-word;     /* Renamed property in CSS3 draft spec */
+}
+
+@media (max-width: 768px){
+	.session  tr th:nth-child(2), .session tr td:nth-child(2){
+		display:none;
+	}
+}
+
+@media (max-width: 400px){
+	.session tr th:nth-child(2), .session tr td:nth-child(2){
+		display:none;
+	}
+	.session tr th:nth-child(5), .session tr td:nth-child(5){
+		display:none;
+	}
+}

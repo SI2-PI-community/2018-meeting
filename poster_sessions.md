@@ -8,14 +8,14 @@ layout: default
         <div class="12u">
             <header>
                 <h2 style="margin: 0"><strong>Poster Sessions</strong></h2>
-                <p style="margin: 0">As of Apr 24, 2018</p>
+                <p style="margin: 0">As of Apr 25, 2018</p>
             </header>
 
 
 <div class="row half">
 <a name="session1"></a>
 <p style="margin: 0; padding-top: 1em"><strong>Session #1: Monday Apr 30, 2018 - 10am-noon</strong></p>
-<table class="default stripped">
+<table class="default stripped session">
 <tr>
   <th width="15%">Name</th>
   <th width="5%">Award</th>
@@ -310,7 +310,7 @@ layout: default
 <div class="row half">
 <a name="session2"></a>
 <p style="margin: 0; padding-top: 1em"><strong>Session #2: Monday Apr 30, 2018 - 3:15pm-5pm</strong></p>
-<table class="default stripped">
+<table class="default stripped session">
 <tr>
   <th width="15%">Name</th>
   <th width="5%">Award</th>
@@ -598,7 +598,7 @@ layout: default
 <div class="row half">
 <a name="session3"></a>
 <p style="margin: 0; padding-top: 1em"><strong>Session #3: Tuesday May 1, 2018 - 10:15am-noon</strong></p>
-<table class="default stripped">
+<table class="default stripped session">
 <tr>
   <th width="15%">Name</th>
   <th width="5%">Award</th>
@@ -886,7 +886,7 @@ layout: default
 <div class="row half">
 <a name="session4"></a>
 <p style="margin: 0; padding-top: 1em"><strong>Session #4: Tuesday May 1, 2018 - 2:45pm-4:30pm</strong></p>
-<table class="default stripped">
+<table class="default stripped session">
 <tr>
   <th width="15%">Name</th>
   <th width="5%">Award</th>

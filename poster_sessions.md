@@ -250,11 +250,11 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Francesco Paesani</td>
+  <td>Gregory Voth</td>
   <td>SI2-SSE</td>
-  <td>SI2-SSE: Enabling Chemical Accuracy in Computer Simulations: An Integrated Software Platform for Many-Body Molecular Dynamics</td>
-  <td><a href="https://figshare.com/articles/Data-Driven_Models_for_Predictive_Molecular_Simulations/6170051" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/Data-Driven_Models_for_Predictive_Molecular_Simulations/6170057" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td>SI2-SSE: Highly Efficient and Scalable Software for Coarse-Grained Molecular Dynamics</td>
+  <td><a href="https://figshare.com/articles/SI2-SSE_Highly_Efficient_and_Scalable_Software_for_Coarse-Grained_Molecular_Dynamics/6173909" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Voth_Lightning_Talk_Slide/6176216" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Hyowon Park</td>
@@ -510,11 +510,11 @@ layout: default
   <td><a href="https://figshare.com/articles/NSF-SI2-2018-Talk-SokoloffAndWilliams/6174221" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Gregory Voth</td>
+  <td>Francesco Paesani</td>
   <td>SI2-SSE</td>
-  <td>SI2-SSE: Highly Efficient and Scalable Software for Coarse-Grained Molecular Dynamics</td>
-  <td><a href="https://figshare.com/articles/SI2-SSE_Highly_Efficient_and_Scalable_Software_for_Coarse-Grained_Molecular_Dynamics/6173909" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/Voth_Lightning_Talk_Slide/6176216" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td>SI2-SSE: Enabling Chemical Accuracy in Computer Simulations: An Integrated Software Platform for Many-Body Molecular Dynamics</td>
+  <td><a href="https://figshare.com/articles/Data-Driven_Models_for_Predictive_Molecular_Simulations/6170051" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Data-Driven_Models_for_Predictive_Molecular_Simulations/6170057" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Yifei Mo</td>

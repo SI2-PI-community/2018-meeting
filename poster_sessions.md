@@ -72,7 +72,7 @@ layout: default
   <td>SI2-SSE</td>
   <td>MAtrix, TEnsor, and Deep-learning Optimized Routines</td>
   <td><a href="https://figshare.com/articles/MAtrix_TEnsor_and_Deep-learning_Optimized_Routines_MATEDOR_/6174143" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/MAtrix_TEnsor_and_Deep-learning_Optimized_Routines_MATEDOR_/6179954" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>B. S. Manjunath</td>
@@ -686,10 +686,10 @@ layout: default
   <td><a href="https://figshare.com/articles/University_of_Chicago_CRESCAT_Project/6173996" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Marlon E Pierce</td>
+  <td>Suresh Marru</td>
   <td>SI2-SSI</td>
   <td>Collaborative Research: SI2-SSI: Open Gateway Computing Environments Science Gateways Platform as a Service (OGCE SciGaP)</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SciGaP_SI2_PI_2018_Meeting_Poster/6173672" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/SciGaP_NSF_SI2_2018_PI_Meeting_Lightning_Talk/6173690" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
@@ -801,8 +801,8 @@ layout: default
   <td>Ray Zimmerman</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: Foundations for MATPOWER as an Extensible Tool for Power Systems Research and Education</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Poster_-_SI2-SSE_Foundations_for_MATPOWER_as_an_Extensible_Tool_for_Power_Systems_Research_and_Education/6182045" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Talk_-_SI2-SSE_Foundations_for_MATPOWER_as_an_Extensible_Tool_for_Power_Systems_Research_and_Education/6182138" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Ying Li</td>
@@ -908,7 +908,7 @@ layout: default
   <td>EAGER</td>
   <td>EAGER: Development of software citation methodology for open source computational science</td>
   <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Computational_Infrastructure_for_Geodynamics_Accelerating_Discovery_in_the_Solid_Earth_through_Sustainable_Scientific_Software/6180458" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Dane Morgan</td>
@@ -1070,13 +1070,6 @@ layout: default
   <td>Abaco - Flexible, Scalable, and Usable Functions-As-A-Service via the Actor Model</td>
   <td><a href="https://figshare.com/articles/Abaco_-Flexible_scalable_and_usable_Functions-as-a-service_via_the_Actor_Model/6148895" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Abaco_2018_SI2_PI_Meeting-_Lightning_Talk/6169280" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Suresh Marru</td>
-  <td>SI2-SSI</td>
-  <td>Open Gateway Computing Environments Science Gateways Platform as a Service (OGCE SciGaP)</td>
-  <td></td>
-  <td></td>
 </tr>
 <tr>
   <td>Christopher Roland</td>

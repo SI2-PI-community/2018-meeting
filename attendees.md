@@ -737,7 +737,8 @@ layout: default
 <td>EAGER: Development of software citation methodology for open source computational science</td>
 <td>EAGER</td>
 <td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Computational_Infrastructure_for_Geodynamics_Accelerating_Discovery_in_the_Solid_Earth_through_Sustainable_Scientific_Software/6180458" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Christopher Paciorek</td>
 <td>UC Berkeley</td>
@@ -869,8 +870,9 @@ layout: default
 <td>Cornell University</td>
 <td>SI2-SSE: Foundations for MATPOWER as an Extensible Tool for Power Systems Research and Education</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Poster_-_SI2-SSE_Foundations_for_MATPOWER_as_an_Extensible_Tool_for_Power_Systems_Research_and_Education/6182045" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ying Li</td>
 <td>University of Connecticut</td>

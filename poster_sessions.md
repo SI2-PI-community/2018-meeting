@@ -531,13 +531,6 @@ layout: default
   <td><a href="https://figshare.com/articles/NSCI_SI2-SSE_Multiscale_Software_for_Quantum_Simulations_of_Nanostructured_Materials_and_Devicentitled_Item/6169604" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Kesong YANG</td>
-  <td>SI2-SSI</td>
-  <td>SI2-SSI: Collaborative Research: A Robust High-throughput Ab initio Computation and Analysis Software Framework for Interface Materials Science</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Von Welch</td>
   <td>Other</td>
   <td>Collaborative Research: CICI: Secure and Resilient Architecture: Scientific Workflow Integrity with Pegasus</td>

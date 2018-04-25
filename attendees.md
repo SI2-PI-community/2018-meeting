@@ -414,7 +414,7 @@ layout: default
 <td>University of Notre Dame</td>
 <td>SI2-SSI: Collaborative Research: STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/STORM_a_Scalable_Toolkit_for_an_Open_Community_Supporting_Near_Real-time_High_Resolution_Coastal_Storm_Modeling/6174014" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/STORM_a_Scalable_Toolkit_for_an_Open_Community_Supporting_Near_Real-time_High_Resolution_Coastal_Storm_Modeling/6174320" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

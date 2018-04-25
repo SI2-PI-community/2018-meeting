@@ -134,8 +134,8 @@ layout: default
   <td>Bruce Berriman</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: The Next Generation of The Montage Image Mosaic Engine: Beyond Mosaics</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/The_Montage_Image_Mosaic_Toolkit_As_A_Visualization_Engine/6151193" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/The_Montage_Image_Mosaic_Engine/6151202" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Sameer Shende</td>

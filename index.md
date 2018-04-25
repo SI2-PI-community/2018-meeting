@@ -78,7 +78,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                 <p><strong>Title and Theme: Towards a National Software Ecosystem</strong></p>
             </header>
             <div class="row half">
-                <strong>Monday Apr 30, 2018</strong>
+                <strong>Monday Apr 30, 2018</strong> <span>(Room: <strong>Ballroom B</strong>)</span>
                 <table class="default stripped">
                     <tr>
                         <th width="10%">Time</th>
@@ -169,7 +169,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                 <p style="margin-top: -2em; padding: 0; font-size: 11px"><strong>** For selected PIs only.</strong></p>
             </div>
             <div class="row half">
-                <strong>Tuesday May 1, 2018</strong>
+                <strong>Tuesday May 1, 2018</strong> <span>(Room: <strong>Monticello Ballroom</strong>)</span>
                 <table class="default stripped">
                     <tr>
                         <th width="10%">Time</th>

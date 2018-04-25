@@ -500,7 +500,7 @@ layout: default
   <td>SI2-Conceptualization</td>
   <td>NISC SI2-S2I2 Conceptualization of CFDSI: Model, Data, and Analysis Integration for End-to-End Support of Fluid Dynamics Discovery and Innovation</td>
   <td><a href="https://figshare.com/articles/CFDSI_Poster_2018_NSF_PI_MeetingJansen_pdf/6173900" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Untitled_ItemCFDSI_Lighning_2018_NSF_PI_MeetingJansen/6174095" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Mike Sokoloff</td>

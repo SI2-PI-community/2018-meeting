@@ -593,6 +593,13 @@ layout: default
   <td><a href="https://figshare.com/articles/SI_2_PI_Meeting_Poster/6169577" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/SI_2_2018_Lightning_Talk/6169601" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
+<tr>
+  <td>Harish S. Bhat</td>
+  <td>CDS&E</td>
+  <td>Simulation and Inference Algorithms for Stochastic Differential Equations</td>
+  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174032" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174089" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 </tbody></table></div>
 
 <div class="row half">
@@ -972,13 +979,6 @@ layout: default
   <td>EASE: Improving Research Accountability through Artifact Evaluation</td>
   <td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation/6173972" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation_-_Lightning_Talk/6173987" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Harish S. Bhat</td>
-  <td>CDS&E</td>
-  <td>Simulation and Inference Algorithms for Stochastic Differential Equations</td>
-  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174032" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/Computing_Densities_for_Stochastic_Differential_Equations/6174089" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Maxine Brown</td>

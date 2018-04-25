@@ -751,8 +751,9 @@ layout: default
 <td>Georgia Institute of Technology</td>
 <td>Collaborative Research: High Performance Low Rank Approximation for Scalable Data Analytics</td>
 <td>SI2-SSE</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/High_Performance_Low_Rank_Approximation_for_Scalable_Data_Analytics/6171539" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/High_Performance_Low_Rank_Approximation_for_Scalable_Data_Analytics/6171539" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Paul Navratil</td>
 <td>Texas Advanced Computing Center</td>

@@ -260,7 +260,7 @@ layout: default
   <td>Hyowon Park</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: Collaborative Research: Software framework for strongly correlated materials: from DFT to DMFT</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Development_of_computational_methods_for_the_characterization_of_novel_strongly_correlated_materials_from_DFT_to_DMFT/6174266" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Development_of_computational_methods_for_the_characterization_of_novel_strongly_correlated_materials_from_DFT_to_DMFT/6174890" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

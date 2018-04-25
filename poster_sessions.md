@@ -606,6 +606,13 @@ layout: default
 <tr><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td></td></tr>
 <tbody class="bnormal">
 <tr>
+  <td>Jeffrey Carver</td>
+  <td>EAGER</td>
+  <td>EAGER: Collaborative Research: Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</td>
+  <td><a href="https://figshare.com/articles/Collaborative_Research_Making_Software_Engineering_Work_for_Computational_Science_Engineering_An_Integrated_Approach/6151247" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/NSF-SI2_PI_2018_-_Carver_Lightning/6171077" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
   <td>Mark Neubauer</td>
   <td>SI2-Conceptualization</td>
   <td>Collaborative Research: S2I2: Cncp: Conceptualization of an S2I2 Institute for High Energy Physics</td>
@@ -639,13 +646,6 @@ layout: default
   <td>Symbolic Toolboxes for Differential Geometry and Mathematical Physics</td>
   <td><a href="https://figshare.com/articles/Symbolic_Toolboxes_For_Differential_Geometry_and_Mathematical_Physics/6169517" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Symbolic_Toolboxes_For_Differential_Geometry_and_Mathematical_Physics/6169520" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Carl Boettiger</td>
-  <td>EAGER</td>
-  <td>Codemeta: a Rosetta Stone for Metadata in Scientific Software</td>
-  <td><a href="https://figshare.com/articles/Codemeta_A_Rosetta_Stone_for_Software_Metadata/4490588" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
 </tr>
 <tr>
   <td>Christopher Iacovella</td>
@@ -893,11 +893,11 @@ layout: default
 <tr><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td></td></tr>
 <tbody class="bnormal">
 <tr>
-  <td>Jeffrey Carver</td>
+  <td>Carl Boettiger</td>
   <td>EAGER</td>
-  <td>EAGER: Collaborative Research: Making Software Engineering Work for Computational Science and Engineering: An Integrated Approach</td>
-  <td><a href="https://figshare.com/articles/Collaborative_Research_Making_Software_Engineering_Work_for_Computational_Science_Engineering_An_Integrated_Approach/6151247" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/NSF-SI2_PI_2018_-_Carver_Lightning/6171077" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td>Codemeta: a Rosetta Stone for Metadata in Scientific Software</td>
+  <td><a href="https://figshare.com/articles/Codemeta_A_Rosetta_Stone_for_Software_Metadata/4490588" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td></td>
 </tr>
 <tr>
   <td>Louise Kellogg</td>

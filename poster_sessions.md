@@ -40,10 +40,10 @@ layout: default
   <td><a href="https://figshare.com/articles/WRENCH_Lightning_Talk_slide/6148157" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Abhijit Majumder</td>
+  <td>Mohammad Ebrahim Khalaj</td>
   <td>SI2-SSI</td>
-  <td>SI2-SSI Jet Energy-loss Tomography with a Statistically and Computationally Advanced Program Envelope</td>
-  <td></td>
+  <td>Jet Energy-Loss Tomography with a Statistically and Computationally Advanced Program Envelope (JETSCAPE)</td>
+  <td><a href="https://figshare.com/articles/Jet_Energy-loss_Tomography_with_a_Statistically_Computationally_Advanced_Program_Envelope/6174116" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>
@@ -1035,13 +1035,6 @@ layout: default
   <td>Human- and Machine-Intelligent Software Elements for Cost-Effective Scientific Data Digitization</td>
   <td><a href="https://figshare.com/articles/Human-_and_Machine-Intelligent_Network_of_Software_Elements_for_Cost-Effective_Scientific_Data_Digitization/6174005" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Human-_and_Machine-Intelligent_Network_of_Software_Elements_for_Cost-Effective_Scientific_Data_Digitization/6174026" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Mohammad Ebrahim Khalaj</td>
-  <td>SI2-SSI</td>
-  <td>Jet Energy-Loss Tomography with a Statistically and Computationally Advanced Program Envelope (JETSCAPE)</td>
-  <td><a href="https://figshare.com/articles/Jet_Energy-loss_Tomography_with_a_Statistically_Computationally_Advanced_Program_Envelope/6174116" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
 </tr>
 <tr>
   <td>Christine Goulet</td>

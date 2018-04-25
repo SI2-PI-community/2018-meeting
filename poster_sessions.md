@@ -54,6 +54,13 @@ layout: default
   <td><a href="https://figshare.com/articles/A_Next-Generation_Open-Source_Computational_Fluid_Dynamic_Code_for_Polydisperse_Multiphase_Flows_in_Science_and_Engineering_-_Lightning_Talk_2018/6169391" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
+  <td>Dane Morgan</td>
+  <td>SI2-SSI</td>
+  <td>Collaborative Research: A Computational Materials Data and Design Environment</td>
+  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design/6168923" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design_Environment/6168932" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
   <td>Ewa Deelman</td>
   <td>SI2-SSI</td>
   <td>SI2-SSI: Pegasus: Automating Compute and Data Intensive Science</td>
@@ -902,13 +909,6 @@ layout: default
   <td>EAGER: Development of software citation methodology for open source computational science</td>
   <td></td>
   <td><a href="https://figshare.com/articles/Computational_Infrastructure_for_Geodynamics_Accelerating_Discovery_in_the_Solid_Earth_through_Sustainable_Scientific_Software/6180458" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Dane Morgan</td>
-  <td>SI2-SSI</td>
-  <td>Collaborative Research: A Computational Materials Data and Design Environment</td>
-  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design/6168923" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design_Environment/6168932" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Philip A. Wilsey</td>

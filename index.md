@@ -37,15 +37,35 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
 </div>
 
 <section class="wrapper style3 special" markdown="0">
-    <header>
-        <h3>Workshop Registration</h3>
-    </header>
-    <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>March 29, 2018</u></strong>:</p>
-    <footer>
-        <ul class="buttons">
-            <li><a href="https://goo.gl/forms/2AOQFdgwKimM5bT53" target="_blank" class="button special small">Register</a></li>
-        </ul>
-    </footer>
+    <div class="row">
+        <div class="6u">
+            <header>
+                <h3>Poster Assignments</h3>
+            </header>
+            <p style="text-align: left; font-size: 0.8em; line-height: 1.3em">
+                Session #1: Monday Apr 30, 2018 - 10am-noon<br />
+                Session #2: Monday Apr 30, 2018 - 3:15pm-5pm<br />
+                Session #3: Tuesday May 1, 2018 - 10:15am-noon<br />
+                Session #4: Tuesday May 1, 2018 - 2:45pm-4:30pm
+            </p>
+            <footer>
+                <ul class="buttons">
+                    <li><a href="/2018-meeting/poster_sessions.html" class="button special small">See Assignments</a></li>
+                </ul>
+            </footer>
+        </div>
+        <div class="6u">
+            <header>
+                <h3>Workshop Registration</h3>
+            </header>
+            <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>March 29, 2018</u></strong>:</p>
+            <footer>
+                <ul class="buttons">
+                    <li><a href="https://goo.gl/forms/2AOQFdgwKimM5bT53" target="_blank" class="button special small">Register</a></li>
+                </ul>
+            </footer>
+        </div>
+    </div>
 </section>
 
 
@@ -93,12 +113,12 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <tr>
                         <td>10:00am</td>
                         <td>Lightning Talks #1</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
                     </tr>                    
                     <tr>
                         <td>10:45am</td>
                         <td>Posters Session #1</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
                     </tr>                    
                     <tr class="up">
                         <td>noon</td>
@@ -133,12 +153,12 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <tr>
                         <td>3:15pm</td>
                         <td>Lightning Talks #2</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session2">assignments</a></td>
                     </tr>  
                     <tr>
                         <td>4:00pm</td>
                         <td>Posters Session #2</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session2">assignments</a></td>
                     </tr>  
                     <tr>
                         <td>5:00pm</td>
@@ -184,12 +204,12 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <tr>
                         <td>10:15am</td>
                         <td>Lightning Talks #3</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session3">assignments</a></td>
                     </tr>                    
                     <tr>
                         <td>11:00am</td>
                         <td>Posters Session #3</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session3">assignments</a></td>
                     </tr>                    
                     <tr class="up">
                         <td>noon</td>
@@ -234,12 +254,12 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <tr>
                         <td>2:45pm</td>
                         <td>Lightning Talks #4</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session4">assignments</a></td>
                     </tr>  
                     <tr>
                         <td>3:30pm</td>
                         <td>Posters Session #4</td>
-                        <td></td>
+                        <td><a href="/2018-meeting/poster_sessions.html#session4">assignments</a></td>
                     </tr>  
                     <tr>
                         <td>4:30pm</td>

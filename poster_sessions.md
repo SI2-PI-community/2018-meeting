@@ -753,7 +753,7 @@ layout: default
   <td>SI2-SSE</td>
   <td>SI2-SSE: Deep Forge: a Machine Learning Gateway for Scientific Workflow Design</td>
   <td><a href="https://figshare.com/articles/DeepForge_A_Machine_Learning_Gateway_for_Scientific_Workflow_Design/6170933" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/DeepForge_Lightning_Talk/6182330" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Devangi Parikh</td>

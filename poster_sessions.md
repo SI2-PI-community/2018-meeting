@@ -128,7 +128,7 @@ layout: default
   <td>SI2-SSE</td>
   <td>Development and Implementation of Software Elements using of State-of-the-Art Computational Methods to Advance Modeling Heterogeneities and Mixing in Earth’s Mantle</td>
   <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SCIENTIFIC_SOFTWARE_ELEMENTS_FOR_MODELING_PROCESSES_IN_THE_EARTH_S_MANTLE/6185381" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Bruce Berriman</td>

@@ -658,6 +658,13 @@ layout: default
   <td></td>
 </tr>
 <tr>
+  <td>Christopher Iacovella</td>
+  <td>SI2-SSI</td>
+  <td>SI2-SSI: Integrated Molecular Design Environment for Lubrication Systems (iMoDELS)</td>
+  <td><a href="https://figshare.com/articles/SI2-SSI_Integrated_Molecular_Design_Environment_for_Lubrication_Systems_iMoDELS_/6170132" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/SI2-SSI_Integrated_Molecular_Design_Environment_for_Lubrication_Systems_iMoDELS_/6173870" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
   <td>Brian Bockelman</td>
   <td>SI2-SSI</td>
   <td>Collaborative Research: SI2-SSI: Data-Intensive Analysis for High Energy Physics (DIANA/HEP)</td>

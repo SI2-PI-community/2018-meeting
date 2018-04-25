@@ -944,13 +944,6 @@ layout: default
 <tr>
 <td>Dane Morgan</td>
 <td>University of Wisconsin, Madison</td>
-<td>High Throughput Design of Metallic Glasses with Physically Motivated Descriptors</td>
-<td>DMREF</td>
-<td></td>
-<td></td></tr>
-<tr>
-<td>Dane Morgan</td>
-<td>University of Wisconsin, Madison</td>
 <td>Collaborative Research: A Computational Materials Data and Design Environment</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/SI2-SSI_Collaborative_Research_A_Computational_Materials_Data_and_Design/6168923" target="_blank"><i class="fa fa-external-link"></i></a></td>

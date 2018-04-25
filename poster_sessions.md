@@ -61,13 +61,6 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Dane Morgan</td>
-  <td>DMREF</td>
-  <td>High Throughput Design of Metallic Glasses with Physically Motivated Descriptors</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Azzam Haidar</td>
   <td>SI2-SSE</td>
   <td>MAtrix, TEnsor, and Deep-learning Optimized Routines</td>

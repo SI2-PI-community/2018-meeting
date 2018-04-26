@@ -194,7 +194,7 @@ layout: default
 <td>Collaborative Research: SI2-SSI: Scalable infrastructure for enabling multiscale and multiphysics applications in fluid dynamics, solid mechanics, and fluid-structure interaction</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/Enabling_Multiscale_and_Multiphysics_Applications_in_Fluid_Dynamics_Solid_Mechanics_and_Fluid-Structure_Interaction/6173858" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/Enabling_Multiscale_and_Multiphysics_Applications_in_Fluid_Dynamics_Solid_Mechanics_and_Fluid-Structure_Interaction/6174233/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Muhammad Osama</td>

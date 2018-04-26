@@ -1103,7 +1103,7 @@ layout: default
   <td>Andrew Miner</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: A Next-Generation Decision Diagram Library</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SI2-SSE_A_next-generation_decision_diagram_library_pdf/4679611" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/meddly-lightning_pdf/6173849" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

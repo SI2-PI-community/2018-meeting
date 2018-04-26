@@ -822,7 +822,7 @@ layout: default
   <td>Vincent Reverdy</td>
   <td>SI2-SSE</td>
   <td>STAMLA: Scalable Tree Algorithms for Machine Learning Applications</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Scalable_Tree_Algorithms_for_Machine_Learning_Applications/6174494" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Scalable_Tree_Algorithms_for_Machine_Learning_Applications/6174779" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

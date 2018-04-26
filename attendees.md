@@ -58,8 +58,9 @@ layout: default
 <td>University of Texas</td>
 <td>​The Agave Platform: An Open Science-As-A-Service Cloud Platform for Reproducible Science</td>
 <td>SI2-SSI</td>
+<td><a href="https://figshare.com/articles/The_Agave_Platform_An_Open_Science-As-A-Service_Cloud_Platform_for_Reproducible_Science/4675765" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Ritu Arora</td>
 <td>TACC, UT Austin</td>
@@ -770,8 +771,9 @@ layout: default
 <td>University at Buffalo</td>
 <td>SI2-SSE: Collaborative Research: Extending the Practicality and Scalability of LibMesh-Based Unstructured, Adaptive Finite Element Computations</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/SI2-SSE_Extending_the_Practicality_and_Scalability_of_libMesh-based_Unstructured_Adaptive_Finite_Element_Computations/6189101" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Peter Volgyesi</td>
 <td>Vanderbilt University</td>
@@ -909,7 +911,7 @@ layout: default
 <tr>
 <td>Paul Rulis</td>
 <td>University of Missouri - Kansas City</td>
-<td>1729227</td>
+<td>Predictive Modeling of Polymer-Derived Ceramics: Discovering Methods for the Design and Fabrication of Complex Disordered Solids</td>
 <td>DMREF</td>
 <td><a href="https://figshare.com/articles/Predictive_Modeling_of_Polymer-Derived_Ceramics_Discovering_Methods_for_the_Design_and_Fabrication_of_Complex_Disordered_Solids/6171164" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Predictive_Modeling_of_Polymer-Derived_Ceramics_Discovering_Methods_for_the_Design_and_Fabrication_of_Complex_Disordered_Solids/6171272" target="_blank"><i class="fa fa-external-link"></i></a></td>

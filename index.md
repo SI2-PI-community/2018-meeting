@@ -171,12 +171,6 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>Posters Session #2</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session2">assignments</a></td>
                     </tr>  
-                    <tr>
-                        <td>5:00pm</td>
-                        <td>Closing Session</td>
-                        <td></td>
-                        <td></td>
-                    </tr>
                     <tr class="up">
                         <td>5:00pm</td>
                         <td>Reception: <span class="tnormal">finger food, with vegetarian options, and a cash bar</span></td>

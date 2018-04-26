@@ -792,7 +792,7 @@ layout: default
 </tr>
 <tr>
   <td>Christina Bandaragoda</td>
-  <td>Other</td>
+  <td>RAPID</td>
   <td>RAPID: COLLABORATIVE RESEARCH: Building Infrastructure to Prevent Disasters like Hurricane Maria</td>
   <td><a href="https://figshare.com/articles/NSF_SI2_Collaborative_RAPID_Building_infrastructure_to_prevent_disasters_like_Hurricane_Maria/6174965" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/NSF_SI2_Collaborative_RAPID_Lightning_Talk_Building_infrastructure_to_prevent_disasters_like_Hurricane_Maria/6175712" target="_blank"><i class="fa fa-external-link"></i></a></td>

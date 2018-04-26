@@ -555,7 +555,7 @@ layout: default
   <td>Andreas Stathopoulos</td>
   <td>SI2-SSE</td>
   <td>Enhancing the PReconditioned Iterative MultiMethod Eigensolver Software with New Methods and Functionality for Eigenvalue and Singular Value Decomposition (SVD) Problems</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Enhancing_the_PRIMME_Software_with_New_Methods_and_Functionality_for_Eigenvalues_and_SVD_problems/6174020" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/Enhancing_the_PRIMME_Software_with_New_Methods_and_Functionality_for_Eigenvalues_and_SVD_problems/6174029" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

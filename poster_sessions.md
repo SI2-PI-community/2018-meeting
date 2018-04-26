@@ -888,6 +888,13 @@ layout: default
   <td><a href="https://figshare.com/articles/SGCI-About-Poster-04-2018_pdf/5995357" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
+<tr>
+  <td>Raheem Beyah</td>
+  <td>SI2-SSE</td>
+  <td>SI2-SSE: ShareSafe: A Framework for Researchers and Data Owners to Help Facilitate Secure Graph Data Sharing</td>
+  <td><a href="https://figshare.com/articles/SI2-SSE_ShareSafe_A_Framework_for_Researchers_and_Data_Owners_to_Help_Facilitate_Secure_Graph_Data_Sharing/6168947" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td></td>
+</tr>
 </tbody></table></div>
 
 <div class="row half">
@@ -1119,13 +1126,6 @@ layout: default
   <td>NSCI: SI2-SSE: An Extensible Model to Support Scalable Checkpoint-Restart for DMTCP across Multiple Disciplines</td>
   <td><a href="https://figshare.com/articles/NSCI_SI2-SSE_An_Extensible_Model_to_Support_Scalable_Checkpoint-Restart_for_DMTCP_across_Multiple_Disciplines/6174206" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/NSCI_SI2-SSE_An_Extensible_Model_to_Support_Scalable_Checkpoint-Restart_for_DMTCP_across_Multiple_Disciplines/6176465" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Raheem Beyah</td>
-  <td>SI2-SSE</td>
-  <td>SI2-SSE: ShareSafe: A Framework for Researchers and Data Owners to Help Facilitate Secure Graph Data Sharing</td>
-  <td><a href="https://figshare.com/articles/SI2-SSE_ShareSafe_A_Framework_for_Researchers_and_Data_Owners_to_Help_Facilitate_Secure_Graph_Data_Sharing/6168947" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
 </tr>
 <tr>
   <td>Gerhard Klimeck</td>

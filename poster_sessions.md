@@ -967,7 +967,7 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Bruce Childers</td>
+  <td>Luis Oliveira</td>
   <td>SI2-SSE</td>
   <td>EASE: Improving Research Accountability through Artifact Evaluation</td>
   <td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation/6173972" target="_blank"><i class="fa fa-external-link"></i></a></td>

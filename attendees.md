@@ -1436,7 +1436,8 @@ layout: default
 <td>Particle-in-cell and kinetic simulation software center</td>
 <td>SI2-SSI</td>
 <td></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>James Bordner</td>
 <td>University of California, San Diego</td>
@@ -1452,6 +1453,14 @@ layout: default
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/Synthesizing_Self-Contained_Scientific_Software/6174287" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Synthesizing_Self-Contained_Scientific_Software_-_2018_-_Lightning_Talk/6176081" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
+<tr>
+<td>Luis Oliveira</td>
+<td>University of Pittsburgh</td>
+<td>EASE: Improving Research Accountability through Artifact Evaluation</td>
+<td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation/6173972" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation_-_Lightning_Talk/6173987" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 </tbody>
                 </table>

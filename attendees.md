@@ -371,8 +371,9 @@ layout: default
 <td>Purdue University</td>
 <td>Analyze Visual Data from Worldwide Network Cameras</td>
 <td>SI2-SSE</td>
+<td><a href="https://figshare.com/articles/2018_SI2_PI_Meeting/6159953" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Abani Patra</td>
 <td>Univ at Buffalo, SUNY</td>

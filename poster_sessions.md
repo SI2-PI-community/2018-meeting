@@ -394,7 +394,7 @@ layout: default
   <td>Yung-Hsiang Lu</td>
   <td>SI2-SSE</td>
   <td>Analyze Visual Data from Worldwide Network Cameras</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/2018_SI2_PI_Meeting/6159953" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>

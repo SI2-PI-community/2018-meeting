@@ -89,13 +89,6 @@ layout: default
   <td><a href="https://figshare.com/articles/SI2-SSE_Collaborative_Research_Molecular_simulations_for_polymeric_systems_in_the_cloud/6086675" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Frank Timmes</td>
-  <td>SI2-SSI</td>
-  <td>Collaborative Research: SI2-SSI: Modules for Experiments in Stellar Astrophysics</td>
-  <td><a href="https://figshare.com/articles/Poster_for_NSF-SI2-2018/6025694" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/NSF_SI2_2018_Lightning_Talk/6025700" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
   <td>Jeffrey Potoff</td>
   <td>SI2-SSE</td>
   <td>SSE: Development of a High-Performance Parallel Gibbs Ensemble Monte Carlo Simulation Engine</td>
@@ -320,6 +313,13 @@ layout: default
 </tr>
 <tr><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td><span class="tnormal"></span></td><td></td></tr>
 <tbody class="bnormal">
+<tr>
+  <td>Frank Timmes</td>
+  <td>SI2-SSI</td>
+  <td>Collaborative Research: SI2-SSI: Modules for Experiments in Stellar Astrophysics</td>
+  <td><a href="https://figshare.com/articles/Poster_for_NSF-SI2-2018/6025694" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/NSF_SI2_2018_Lightning_Talk/6025700" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
   <td>Muhammad Osama</td>
   <td>SI2-Institute</td>

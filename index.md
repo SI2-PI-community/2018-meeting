@@ -120,7 +120,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>10:00am</td>
                         <td>Lightning Talks #1</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
-                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: TBA</td>
+                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Frank Timmes</td>
                     </tr>                    
                     <tr>
                         <td>10:45am</td>
@@ -238,7 +238,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>1:00pm</td>
                         <td class="lnormal">SSI Highlight: <span class="tnormal">STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</span></td>
                         <td>Joannes Westerink</td>
-                        <td rowspan="6" class="tnormal" style="line-height: 1.5em">Moderator: TBA</td>
+                        <td rowspan="6" class="tnormal" style="line-height: 1.5em">Moderator: Sandra Gesing</td>
                     </tr>                    
                     <tr>
                         <td>1:15pm</td>

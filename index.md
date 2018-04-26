@@ -79,41 +79,48 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
             </header>
             <div class="row half">
                 <strong>Monday Apr 30, 2018</strong> <span>(Room: <strong>Ballroom B</strong>)</span>
-                <table class="default stripped">
+                <table class="default stripped agenda">
                     <tr>
                         <th width="10%">Time</th>
                         <th>Event</th>
-                        <th width="30%">Speaker</th>
+                        <th width="25%">Speaker</th>
+                        <th width="10%"></th>
                     </tr>
                     <tr>
                         <td>7:15am</td>
                         <td><span class="tnormal">Breakfast with Jim Kurose**</span></td>
+                        <td></td>
                         <td></td>
                     </tr>
                     <tr class="up">
                         <td>7:30am</td>
                         <td>Breakfast and Registration</td>
                         <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>8:30am</td>
                         <td>Welcome Address</td>
                         <td>Frank Timmes</td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>8:45am</td>
                         <td>NSF OAC Directions</td>
                         <td>Irene Qualters and Jim Kurose</td>
+                        <td></td>
                     </tr>                    
                     <tr class="up">
                         <td>9:30am</td>
                         <td>Coffee Break</td>
+                        <td></td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>10:00am</td>
                         <td>Lightning Talks #1</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
+                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: TBA</td>
                     </tr>                    
                     <tr>
                         <td>10:45am</td>
@@ -124,11 +131,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>noon</td>
                         <td>Lunch SI2</td>
                         <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>1:00pm</td>
                         <td>SI2 Institutes: <span class="tnormal">Network for Computational Nanotechnology Cyber Platform</span></td>
                         <td>Gerhard Klimeck</td>
+                        <td rowspan="4" class="tnormal" style="line-height: 1.5em">Moderator: Frank Löffler</td>
                     </tr>                    
                     <tr>
                         <td>1:30pm</td>
@@ -149,11 +158,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>3:00pm</td>
                         <td>Coffee Break</td>
                         <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>3:15pm</td>
                         <td>Lightning Talks #2</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session2">assignments</a></td>
+                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Kyle Niemeyer</td>
                     </tr>  
                     <tr>
                         <td>4:00pm</td>
@@ -164,10 +175,12 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>5:00pm</td>
                         <td>Closing Session</td>
                         <td></td>
+                        <td></td>
                     </tr>
                     <tr class="up">
                         <td>5:00pm</td>
                         <td>Reception: <span class="tnormal">finger food, with vegetarian options, and a cash bar</span></td>
+                        <td></td>
                         <td></td>
                     </tr>
                 </table>
@@ -175,21 +188,24 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
             </div>
             <div class="row half">
                 <strong>Tuesday May 1, 2018</strong> <span>(Room: <strong>Monticello Ballroom</strong>)</span>
-                <table class="default stripped">
+                <table class="default stripped agenda">
                     <tr>
                         <th width="10%">Time</th>
                         <th>Event</th>
-                        <th width="30%">Speaker</th>
+                        <th width="25%">Speaker</th>
+                        <th width="10%"></th>
                     </tr>
                     <tr class="up">
                         <td>7:30am</td>
                         <td>Breakfast and Registration</td>
+                        <td></td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>8:30am</td>
                         <td>Conceptualization: <span class="tnormal">Geospatial Software Institute</span></td>
                         <td>Shaowen Wang</td>
+                        <td rowspan="3" class="tnormal" style="line-height: 1.5em">Moderator: Rafael Ferreira da Silva</td>
                     </tr>
                     <tr>
                         <td>9:00am</td>
@@ -205,11 +221,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>10:00am</td>
                         <td>Coffee Break</td>
                         <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>10:15am</td>
                         <td>Lightning Talks #3</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session3">assignments</a></td>
+                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Paul Bauman</td>
                     </tr>                    
                     <tr>
                         <td>11:00am</td>
@@ -220,11 +238,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>noon</td>
                         <td>Lunch</td>
                         <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>1:00pm</td>
                         <td class="lnormal">SSI Highlight: <span class="tnormal">STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</span></td>
                         <td>Joannes Westerink</td>
+                        <td rowspan="6" class="tnormal" style="line-height: 1.5em">Moderator: TBA</td>
                     </tr>                    
                     <tr>
                         <td>1:15pm</td>
@@ -255,11 +275,13 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>2:30pm</td>
                         <td>Coffee Break</td>
                         <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>2:45pm</td>
                         <td>Lightning Talks #4</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session4">assignments</a></td>
+                        <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Frank Timmes</td>
                     </tr>  
                     <tr>
                         <td>3:30pm</td>
@@ -270,10 +292,12 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                         <td>4:30pm</td>
                         <td>Panel Discussion and Combining Software and Data Programs</td>
                         <td>Vipin Chaudhary</td>
+                        <td class="tnormal" style="line-height: 1.5em">Moderator: Vipin Chaudhary</td>
                     </tr>  
                     <tr>
                         <td>5:00pm</td>
                         <td>Closing</td>
+                        <td></td>
                         <td></td>
                     </tr>  
                 </table>

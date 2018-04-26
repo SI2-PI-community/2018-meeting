@@ -1188,11 +1188,8 @@ table td {
 	}
 }
 
-@media (max-width: 400px){
-	.session tr th:nth-child(2), .session tr td:nth-child(2){
-		display:none;
-	}
-	.session tr th:nth-child(5), .session tr td:nth-child(5){
+@media (max-width: 768px){
+	.agenda tr th:nth-child(4), .agenda tr td:nth-child(4){
 		display:none;
 	}
 }

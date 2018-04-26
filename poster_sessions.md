@@ -623,7 +623,7 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Steven R. Brandt</td>
+  <td>Peter Diener</td>
   <td>SI2-SSI</td>
   <td>Collaborative Research: Einstein Toolkit Communitiy Integration and Data Exploration</td>
   <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_poster/6167924" target="_blank"><i class="fa fa-external-link"></i></a></td>
@@ -951,13 +951,6 @@ layout: default
   <td>Collaborative Research: SI2-SSI: ELSI-Infrastructure for Scalable Electronic Structure Theory</td>
   <td><a href="https://figshare.com/articles/The_ELSI_Infrastructure_for_Scalable_Electronic_Structure_Theory/6174107" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/The_ELSI_Infrastructure_for_Scalable_Electronic_Structure_Theory/6174134" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Frank Löffler</td>
-  <td>SI2-SSI</td>
-  <td>SI2-SSI: Collaborative Research: Einstein Toolkit Community Integration and Data Exploration</td>
-  <td></td>
-  <td></td>
 </tr>
 <tr>
   <td>John Mellor-Crummey</td>

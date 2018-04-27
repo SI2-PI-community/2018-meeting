@@ -394,7 +394,7 @@ layout: default
 <td>University of Chicago</td>
 <td>SI2-SSI: Swift/E: Integrating Parallel Scripted Workflow into the Scientific Software Ecosystem</td>
 <td>SI2-SSI</td>
-<td></td>
+<td><a href="https://figshare.com/articles/Parsl_Parallel_Scripting_in_Python/6174293" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/Parsl_A_Python-based_Parallel_Scripting_Library/6174305" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

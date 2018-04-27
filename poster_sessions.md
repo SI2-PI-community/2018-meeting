@@ -366,8 +366,8 @@ layout: default
   <td>Emery R. Boose</td>
   <td>SI2-SSI</td>
   <td>SI2-SSI: Collaborative Research: Bringing EndtoEnd Provenance to Scientists</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/The_Fruits_of_Provenance/6167648" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/The_Fruits_of_Provenance/6167774" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>David Kofke</td>

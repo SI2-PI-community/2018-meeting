@@ -802,7 +802,7 @@ layout: default
   <td>SI2-SSI</td>
   <td>SI2-SSI: Collaborative Proposal: Performance Application Programming Interface for Extreme-Scale Environments (PAPI-EX)</td>
   <td><a href="https://figshare.com/articles/SI2-SSI_Performance_Application_Programming_Interface_for_Extreme-scale_Environments_PAPI-EX/6174239" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/papi-ex_lightning_talk/6174212" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Ray Zimmerman</td>

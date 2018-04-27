@@ -373,8 +373,8 @@ layout: default
   <td>David Kofke</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: Infrastructure Enabling Broad Adoption of New Methods That Yield Orders-of-Magnitude Speedup of Molecular Simulation Averaging</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Infrastructure_Enabling_Broad_Adoption_of_New_Methods_That_Yield_Orders-of-Magnitude_Speedup_of_Molecular-Simulation_Averaging/6167882" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Implementing_Harmonically_Mapped_Averaging_Methods_on_Popular_Molecular_Simulation_Platforms/6167906" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Mark Shephard</td>

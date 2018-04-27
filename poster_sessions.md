@@ -405,10 +405,10 @@ layout: default
   <td></td>
 </tr>
 <tr>
-  <td>Davide Curreli</td>
+  <td>Davide Curreli and Steve Shannon</td>
   <td>SI2-SSE</td>
   <td>An open source multi-physics platform to advance fundamental understanding of plasma physics and enable impactful application of plasma systems</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/An_open_source_multi-physics_platform_to_advance_fundamental_understanding_of_plasma_physics_and_enable_impactful_application_of_plasma_systems/6173822" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>

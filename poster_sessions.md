@@ -630,11 +630,11 @@ layout: default
   <td><a href="https://figshare.com/articles/Automated_synchronization_and_boundary_condition_application_for_the_Cactus_Framework_-_talk/6171380" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Omar Ghattas</td>
+  <td>Matthew Parno</td>
   <td>SI2-SSI</td>
   <td>Collaborative Research: SI2-SSI: Integrating Data with Complex Predictive Models under Uncertainty: An Extensible Software Framework for Large-Scale Bayesian Inversion</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/MUQ-hIPPylib_Poster_for_SI2_PI_Meeting_2018/6172247" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/MUQ-hIPPylib_Lightning_Slide_NSF_SI2_PI_meeting/6173474" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Andreas Mueller</td>

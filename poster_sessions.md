@@ -8,7 +8,7 @@ layout: default
         <div class="12u">
             <header>
                 <h2 style="margin: 0"><strong>Poster Sessions</strong></h2>
-                <p style="margin: 0">As of Apr 25, 2018</p>
+                <p style="margin: 0">As of Apr 28, 2018</p>
             </header>
 
 

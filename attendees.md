@@ -674,7 +674,7 @@ layout: default
 <td>Collaborative Research: SI2-SSI: Data-Intensive Analysis for High Energy Physics (DIANA/HEP)</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/DIANA_SI2_Workshop_2018_Poster/6169610" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/DIANA_SI2_PI_Workshop_2018/6197207" target="_blank"><i class="fa fa-external-link"></i></a></td></tr>
 <tr>
 <td>Greg Tucker</td>
 <td>University of Colorado / CSDMS</td>

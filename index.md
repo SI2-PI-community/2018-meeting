@@ -106,8 +106,8 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>8:45am</td>
-                        <td>NSF OAC Directions</td>
-                        <td>Irene Qualters and Jim Kurose</td>
+                        <td>NSF CISE and OAC Directions</td>
+                        <td>Jim Kurose and Amy Friedlander</td>
                         <td></td>
                     </tr>                    
                     <tr class="up">

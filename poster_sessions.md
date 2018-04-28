@@ -850,7 +850,7 @@ layout: default
   <td>Warren B. Mori</td>
   <td>SI2-SSI</td>
   <td>Particle-in-Cell and Kinetic Simulation Software Center</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/NSF-SI2-2018_Poster_for_the_UCLA_Particle-in-Cell_and_Kinetic_Simulation_Software_Center_PICKSC_/6198485" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>

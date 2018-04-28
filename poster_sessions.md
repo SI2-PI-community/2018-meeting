@@ -100,7 +100,7 @@ layout: default
   <td>SI2-SSI</td>
   <td>​The Agave Platform: An Open Science-As-A-Service Cloud Platform for Reproducible Science</td>
   <td><a href="https://figshare.com/articles/The_Agave_Platform_An_Open_Science-As-A-Service_Cloud_Platform_for_Reproducible_Science/4675765" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Lightning_Talk_-_The_Agave_Platform_An_Open_Science-As-A-Service_Cloud_Platform_for_Reproducible_Science/6189581" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Ritu Arora</td>

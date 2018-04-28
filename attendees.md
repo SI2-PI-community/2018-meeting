@@ -1072,6 +1072,14 @@ layout: default
 <td></td>
 <td></td></tr>
 <tr>
+<td>Haiying Shen</td>
+<td>University of Virginia</td>
+<td>NSF #1724845 CIF21 DIBBs: PD: Building High-Availability Data Capabilities in Data-Centric Cyberinfrastructure</td>
+<td>Other</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>Xiaosong Li</td>
 <td>University of Washington</td>
 <td>SI2-SSI: Sustainable Open-Source Quantum Dynamics and Spectroscopy Software</td>

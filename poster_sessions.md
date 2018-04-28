@@ -988,6 +988,13 @@ layout: default
   <td></td>
 </tr>
 <tr>
+  <td>Haiying Shen</td>
+  <td>Other</td>
+  <td>NSF #1724845 CIF21 DIBBs: PD: Building High-Availability Data Capabilities in Data-Centric Cyberinfrastructure</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td>Greg Newman</td>
   <td>SI2-SSI</td>
   <td>Advancing and Mobilizing Citizen Science Data through an Integrated Sustainable Cyber-Infrastructure</td>

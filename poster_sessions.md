@@ -851,7 +851,7 @@ layout: default
   <td>SI2-SSI</td>
   <td>Particle-in-Cell and Kinetic Simulation Software Center</td>
   <td><a href="https://figshare.com/articles/NSF-SI2-2018_Poster_for_the_UCLA_Particle-in-Cell_and_Kinetic_Simulation_Software_Center_PICKSC_/6198485" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Particle-in-cell_and_kinetic_simulation_software_center_PICKSC/6198521" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Chad Hanna</td>

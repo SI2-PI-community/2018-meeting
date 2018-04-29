@@ -991,8 +991,8 @@ layout: default
   <td>Haiying Shen</td>
   <td>Other</td>
   <td>NSF #1724845 CIF21 DIBBs: PD: Building High-Availability Data Capabilities in Data-Centric Cyberinfrastructure</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/NSF_1724845_CIF21_DIBBs_PD_Building_High-Availability_Data_Capabilities_in_Data-Centric_Cyberinfrastructure/6198575" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/NSF_1724845_CIF21_DIBBs_PD_Building_High-Availability_Data_Capabilities_in_Data-Centric_Cyberinfrastructure/6198572" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Greg Newman</td>

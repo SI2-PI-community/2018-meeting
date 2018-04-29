@@ -545,7 +545,8 @@ layout: default
 <td>Collaborative Research: S2I2: Cncp: Conceptualization of an S2I2 Institute for High Energy Physics</td>
 <td>SI2-Conceptualization</td>
 <td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/Conceptualization_of_a_Software_Innovation_Institute_for_High_Energy_Physics/6198743" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Jerry Bernholc</td>
 <td>NC State University</td>

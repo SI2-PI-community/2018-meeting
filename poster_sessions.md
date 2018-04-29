@@ -781,7 +781,7 @@ layout: default
   <td>Other</td>
   <td>SHF: Small: Automated Detection and Repair of Errors in Event-Driven Applications</td>
   <td><a href="https://figshare.com/articles/Automated_Detection_and_Repair_of_Errors_in_Event-Driven_Applications/6171419" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Automated_Detection_and_Repair_of_Errors_in_Event-Driven_Applications/6198815" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Ye Zhao</td>

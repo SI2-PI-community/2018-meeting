@@ -232,7 +232,7 @@ layout: default
   <td>Kyle Niemeyer</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: Collaborative Research: An Intelligent and Adaptive Parallel CPU/GPU Co-Processing Software Library for Accelerating Reactive-Flow Simulations</td>
-  <td></td>
+  <td><a href="https://doi.org/10.6084/m9.figshare.6199307" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>

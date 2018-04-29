@@ -531,13 +531,6 @@ layout: default
   <td><a href="https://figshare.com/articles/NSCI_SI2-SSE_Multiscale_Software_for_Quantum_Simulations_of_Nanostructured_Materials_and_Devicentitled_Item/6169604" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Von Welch</td>
-  <td>Other</td>
-  <td>Collaborative Research: CICI: Secure and Resilient Architecture: Scientific Workflow Integrity with Pegasus</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Frank Petriello</td>
   <td>SI2-SSE</td>
   <td>The N-Jettiness Software Framework for Precision Perturbative QCD Calculations in Particle and Nuclear Physics</td>

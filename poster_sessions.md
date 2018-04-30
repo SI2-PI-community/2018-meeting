@@ -285,13 +285,6 @@ layout: default
   <td><a href="https://figshare.com/articles/Toward_Sustainable_Software_for_Science_-_Implementing_and_Assessing_Systematic_Testing_Approaches_for_Scientific_Software/6173936" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Daniel S. Katz</td>
-  <td>Other</td>
-  <td>REU Site: INCLUSION - Incubating a New Community of Leaders Using Software, Inclusion, Innovation, Interdisciplinary and OpeN-Science</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Shaowen Wang</td>
   <td>SI2-Conceptualization</td>
   <td>SI2-S2I2 Conceptualization: Geospatial Software Institute</td>

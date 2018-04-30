@@ -388,7 +388,7 @@ layout: default
   <td>SI2-SSI</td>
   <td>Big Weather Web: A Common and Sustainable Big Data Infrastructure in Support of Weather Prediction Research and Education in Universities</td>
   <td><a href="https://figshare.com/articles/Big_Weather_Web_A_common_and_sustainable_big_data_infrastructure_in_support_of_weather_prediction_research_and_education_in_universities/6174299" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Big_Weather_Web_A_Common_and_Sustainable_Big_Data_Infrastructure_in_Support_of_Weather_Prediction_Research_and_Education_in_Universities/6199367" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Yung-Hsiang Lu</td>

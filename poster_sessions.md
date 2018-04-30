@@ -8,7 +8,7 @@ layout: default
         <div class="12u">
             <header>
                 <h2 style="margin: 0"><strong>Poster Sessions</strong></h2>
-                <p style="margin: 0">As of Apr 29, 2018</p>
+                <p style="margin: 0">As of Apr 30, 2018</p>
             </header>
 
 
@@ -557,13 +557,6 @@ layout: default
   <td>AttackTagger: Early threat Detection for Scientific Cyberinfrastructure</td>
   <td><a href="https://figshare.com/articles/AttackTaggerSI22018_pdf/6160289" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/AttackTagger_Early_threat_Detection_for_Scientific_Cyberinfrastructure/6173693" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Wilkistar Otieno</td>
-  <td>Other</td>
-  <td>PECS</td>
-  <td></td>
-  <td></td>
 </tr>
 <tr>
   <td>Lincoln Carr</td>

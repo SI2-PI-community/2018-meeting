@@ -945,16 +945,16 @@ layout: default
 <td>Rutgers </td>
 <td>ExTASY</td>
 <td>SI2-SSI</td>
-<td></td>
-<td></td>
+<td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Matteo Turilli</td>
 <td>Rutgers</td>
 <td>RADICAL-Cybertools</td>
 <td>SI2-SSE</td>
-<td></td>
-<td></td>
+<td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Dane Morgan</td>

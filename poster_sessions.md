@@ -836,15 +836,15 @@ layout: default
   <td>Shantenu Jha</td>
   <td>SI2-SSI</td>
   <td>ExTASY</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Matteo Turilli</td>
   <td>SI2-SSE</td>
   <td>RADICAL-Cybertools</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/RADICAL_Cybertools_Building_Blocks_for_Workflow_System_Middleware/6200840/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Ali Shojaie</td>

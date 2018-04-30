@@ -135,7 +135,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td>SI2 Institutes: <span class="tnormal">Network for Computational Nanotechnology Cyber Platform</span></td>
+                        <td><span class="tnormal">Network for Computational Nanotechnology Cyber Platform</span></td>
                         <td>Gerhard Klimeck</td>
                         <td rowspan="4" class="tnormal" style="line-height: 1.5em">Moderator: Frank Löffler</td>
                     </tr>                    

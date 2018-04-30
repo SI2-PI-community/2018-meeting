@@ -474,8 +474,9 @@ layout: default
 <td>University of Illinois at Urbana-Champaign</td>
 <td>SI2-S2I2 Conceptualization: Geospatial Software Institute</td>
 <td>SI2-Conceptualization</td>
+<td><a href="https://figshare.com/articles/SI2-S2I2_Conceptualization_Geospatial_Software_Institute/6199265" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td></td>
-<td></td></tr>
+</tr>
 <tr>
 <td>Emre Brookes</td>
 <td>University of Texas Health Science Center at San Antonio</td>

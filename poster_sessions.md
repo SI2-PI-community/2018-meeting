@@ -288,7 +288,7 @@ layout: default
   <td>Shaowen Wang</td>
   <td>SI2-Conceptualization</td>
   <td>SI2-S2I2 Conceptualization: Geospatial Software Institute</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SI2-S2I2_Conceptualization_Geospatial_Software_Institute/6199265" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>

@@ -992,7 +992,7 @@ layout: default
   <td>SI2-SSE</td>
   <td>SI2-SSE: An Ecosystem of Reusable Image Analytics Pipelines</td>
   <td><a href="https://figshare.com/articles/Reusable_Image_Analytics_Pipelines/6171611" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SI2-SSE_Reusable_Image_Analytics_Pipelines_tem/6198665" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Jindal K. Shah</td>

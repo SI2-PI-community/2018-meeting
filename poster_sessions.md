@@ -693,13 +693,6 @@ layout: default
   <td><a href="https://figshare.com/articles/NSF-SI2-Thain-Oneslide_pdf/6167642" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Ramakrishnan Kannan</td>
-  <td>SI2-SSE</td>
-  <td>High Performance Low Rank Approximation for Scalable Data Analytics</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Christopher Paciorek</td>
   <td>SI2-SSI</td>
   <td>Integrating the NIMBLE statistical algorithm platform with advanced computational tools andanalysis workflows</td>

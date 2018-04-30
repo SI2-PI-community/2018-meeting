@@ -1107,13 +1107,6 @@ layout: default
   <td><a href="https://figshare.com/articles/NSCI_SI2-SSE_An_Extensible_Model_to_Support_Scalable_Checkpoint-Restart_for_DMTCP_across_Multiple_Disciplines/6176465" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Gerhard Klimeck</td>
-  <td>Other</td>
-  <td>Network for Computational Nanotechnology Cyber Platform</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Tim Menzies</td>
   <td>EAGER</td>
   <td>Empirical Methods for Computational Science</td>

@@ -10,7 +10,7 @@ layout: default
                 <h2 style="margin: 0"><strong>Attendees</strong></h2>
             </header>
             <div class="row half">
-                <p style="margin: 0">As of Apr 28, 2018</p>
+                <p style="margin: 0">As of Apr 29, 2018</p>
                 <table class="default stripped">
                     <tr>
                         <th width="15%">Name</th>
@@ -131,7 +131,7 @@ layout: default
 <td>A Software for Accelerated Discovery of Microscopic Electronic Processes in Materials</td>
 <td>SI2-SSE</td>
 <td><a href="https://figshare.com/articles/PERTURBO_A_software_platform_for_accelerated_discovery_of_microscopic_processes_in_materials/6173990" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/2018_NSF-SI2_Lightning_Talk_PERTURBO/6174068" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>Damian Dechev</td>
@@ -855,7 +855,7 @@ layout: default
 <td>California Institute of Technology</td>
 <td>PERTURBO: A Software for Accelerated Discovery of Microscopic Electronic Processes in Materials</td>
 <td>SI2-SSE</td>
-<td></td>
+<td><a href="https://figshare.com/articles/PERTURBO_A_software_platform_for_accelerated_discovery_of_microscopic_processes_in_materials/6173990" target="_blank"><i class="fa fa-external-link"></i></a></td>
 <td><a href="https://figshare.com/articles/2018_NSF-SI2_Lightning_Talk_PERTURBO/6174068" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

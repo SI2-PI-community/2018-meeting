@@ -887,7 +887,7 @@ layout: default
   <td>EAGER</td>
   <td>Codemeta: a Rosetta Stone for Metadata in Scientific Software</td>
   <td><a href="https://figshare.com/articles/Codemeta_A_Rosetta_Stone_for_Software_Metadata/4490588" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Codemeta_A_Rosetta_Stone_for_Software_Metadata/4490588" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Louise Kellogg</td>

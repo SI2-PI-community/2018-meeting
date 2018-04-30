@@ -151,7 +151,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>2:30pm</td>
-                        <td>Industry Highlight: <span class="tnormal">TBA</span></td>
+                        <td>Industry Highlight: <span class="tnormal">Approaching Sustainability and Industry: A Longest but not Last Mile</span></td>
                         <td>Mike Zentner</td>
                     </tr>  
                     <tr class="up">

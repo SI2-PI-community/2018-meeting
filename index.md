@@ -6,9 +6,7 @@ layout: default
 The 2018 NSF Software Infrastructure for Sustained Innovation (SI<sup>2</sup>) 
 Principal Investigator (PI) workshop will be held on Monday April 30 and Tuesday 
 May 1, 2018 at the **[The Westin Washington, D.C. City Center](http://www.westinwashingtondccitycenter.com/)**, 
-1400 M Street NW, Washington, DC, 20005
-(<a href="https://www.starwoodmeeting.com/events/start.action?id=1803079656&key=37BED15E" target="_blank">
-book a room with special rate</a>).
+1400 M Street NW, Washington, DC, 20005.
 This year, the workshop will be co-located with the 18th IEEE/ACM International
 Symposium on Cluster, Cloud, and Grid Computing ([CCGrid'18](https://ccgrid2018.seas.gwu.edu/)).
 

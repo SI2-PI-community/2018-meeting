@@ -452,7 +452,7 @@ layout: default
 <td>Collaborative Research: SI2-SSI: EVOLVE: Enhancing the Open MPI Software for Next Generation Architectures and Applications</td>
 <td>SI2-SSI</td>
 <td><a href="https://figshare.com/articles/SIE-SSI_EVOLVE_Open_MPI_for_Next_Generation_Architectures_and_Applications/6174263" target="_blank"><i class="fa fa-external-link"></i></a></td>
-<td></td>
+<td><a href="https://figshare.com/articles/SI2_-_Lighting_Slide_-_EVOLVE_-_2018/6200672" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
 <td>George Bosilca</td>
@@ -946,14 +946,16 @@ layout: default
 <td>ExTASY</td>
 <td>SI2-SSI</td>
 <td></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>Matteo Turilli</td>
 <td>Rutgers</td>
 <td>RADICAL-Cybertools</td>
 <td>SI2-SSE</td>
 <td></td>
-<td></td></tr>
+<td></td>
+</tr>
 <tr>
 <td>Dane Morgan</td>
 <td>University of Wisconsin, Madison</td>

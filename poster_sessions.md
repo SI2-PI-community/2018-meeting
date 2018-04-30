@@ -451,7 +451,7 @@ layout: default
   <td>SI2-SSI</td>
   <td>Collaborative Research: SI2-SSI: EVOLVE: Enhancing the Open MPI Software for Next Generation Architectures and Applications</td>
   <td><a href="https://figshare.com/articles/SIE-SSI_EVOLVE_Open_MPI_for_Next_Generation_Architectures_and_Applications/6174263" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SI2_-_Lighting_Slide_-_EVOLVE_-_2018/6200672" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>George Bosilca</td>

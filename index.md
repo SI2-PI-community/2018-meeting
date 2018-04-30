@@ -38,7 +38,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
 
 <section class="wrapper style3 special" markdown="0">
     <div class="row">
-        <div class="6u">
+        <div class="12u">
             <header>
                 <h3>Poster Assignments</h3>
             </header>
@@ -54,7 +54,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                 </ul>
             </footer>
         </div>
-        <div class="6u">
+        <!--div class="6u">
             <header>
                 <h3>Workshop Registration</h3>
             </header>
@@ -64,7 +64,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     <li><a href="https://goo.gl/forms/2AOQFdgwKimM5bT53" target="_blank" class="button special small">Register</a></li>
                 </ul>
             </footer>
-        </div>
+        </div-->
     </div>
 </section>
 

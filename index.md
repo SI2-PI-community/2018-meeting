@@ -245,7 +245,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>1:30pm</td>
-                        <td class="lnormal">REU Highlight: <span class="tnormal">NCSA's INCLUSION (Incubating a New Community of Leaders Using Software, Inclusion, Innovation, Interdisciplinary and OpeN-Science) REU Site</span></td>
+                        <td class="lnormal">REU Highlight: <span class="tnormal"><a href="https://doi.org/10.6084/m9.figshare.6203231.v1" target="_blank">NCSA's INCLUSION (Incubating a New Community of Leaders Using Software, Inclusion, Innovation, Interdisciplinary and OpeN-Science) REU Site</a></span></td>
                         <td>Dan Katz</td>
                     </tr>  
                     <tr>

@@ -670,8 +670,9 @@ layout: default
 <td>Vanderbilt University</td>
 <td>SI2-SSE: Development of a Software Framework for Formalizing Forcefield Atom-Typing for Molecular Simulation</td>
 <td>SI2-SSE</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/SI2-SSE_Development_of_a_Software_Framework_for_Formalizing_ForceField_Atom-Typing_for_Molecular_Simulation/6170123" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/SI2-SSE_Development_of_a_Software_Framework_for_Formalizing_ForceField_Atom-Typing_for_Molecular_Simulation/6173888" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Brian Bockelman</td>
 <td>University of Nebraska-Lincoln</td>

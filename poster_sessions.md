@@ -291,6 +291,13 @@ layout: default
   <td></td>
   <td></td>
 </tr>
+<tr>
+  <td>Madhusudhan Govindaraju</td>
+  <td>SI2-SSE</td>
+  <td>SI2-SSE: Expanding the Scope of Materials Modeling with EPW Software</td>
+  <td><a href="https://figshare.com/articles/Expanding_the_Scope_of_Materials_Modeling_with_EPW_Software/6173708" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Expanding_the_Scope_of_Materials_Modeling_with_EPW_Software_-_Presentation_Slides/6173732" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 </tbody></table></div>
 
 <div class="row half">
@@ -740,13 +747,6 @@ layout: default
   <td>Collaborative Research: SI2-SSI: Sustaining Innovation in the Linear Algebra Software Stack for Computational Chemistry and other Sciences</td>
   <td><a href="https://figshare.com/articles/SI2-SSI_Sustaining_Innovation_in_the_Linear_Algebra_Software_Stack_for_Computational_Chemistry_and_other_Sciences/6168875" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/SI2-SSI_Sustaining_Innovation_in_the_Linear_Algebra_Software_Stack_for_Computational_Chemistry_and_other_Sciences/6168884" target="_blank"><i class="fa fa-external-link"></i></a></td>
-</tr>
-<tr>
-  <td>Madhusudhan Govindaraju</td>
-  <td>SI2-SSE</td>
-  <td>SI2-SSE: Expanding the Scope of Materials Modeling with EPW Software</td>
-  <td><a href="https://figshare.com/articles/Expanding_the_Scope_of_Materials_Modeling_with_EPW_Software/6173708" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td><a href="https://figshare.com/articles/Expanding_the_Scope_of_Materials_Modeling_with_EPW_Software_-_Presentation_Slides/6173732" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Alyssa Goodman</td>

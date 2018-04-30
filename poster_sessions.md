@@ -1051,13 +1051,6 @@ layout: default
   <td><a href="https://figshare.com/articles/Scalable_Extensible_and_Open_Framework_for_Ground_and_Excited_State_Properties_of_Complex_Systems/6174482" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Laxmikant Kale</td>
-  <td>SI2-SSI</td>
-  <td>SI2-SSI: Collaborative Research: Scalable, Extensible, and Open Framework for Ground and Excited State Properties of Complex Systems</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Wen-Chau Lee</td>
   <td>SI2-SSI</td>
   <td>Lidar Radar Open Software Environment (LROSE)</td>

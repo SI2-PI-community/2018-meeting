@@ -64,7 +64,7 @@ layout: default
   <td>Ewa Deelman</td>
   <td>SI2-SSI</td>
   <td>SI2-SSI: Pegasus: Automating Compute and Data Intensive Science</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SSI_Distributed_Workflow_Management_Research_and_Software_in_Support_of_Science/6160223" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>

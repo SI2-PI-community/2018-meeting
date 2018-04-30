@@ -850,8 +850,8 @@ layout: default
   <td>Ali Shojaie</td>
   <td>CDS&E</td>
   <td>Statistical Methods for Discrete-Valued High-Dimensional Time Series with Applications to Neuroscience</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Causal_Structure_Learning_in_High_Dimensions/6163868/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td><a href="https://figshare.com/articles/Large-Scale_Causal_Structure_Learning/6200873/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Nancy Wilkins-Diehr</td>

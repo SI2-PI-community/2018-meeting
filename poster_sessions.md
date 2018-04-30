@@ -395,13 +395,13 @@ layout: default
   <td>SI2-SSE</td>
   <td>Analyze Visual Data from Worldwide Network Cameras</td>
   <td><a href="https://figshare.com/articles/2018_SI2_PI_Meeting/6159953" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/2018_SI2_PI_Meeting/6159953" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Abani Patra</td>
   <td>SI2-SSI</td>
   <td>Collabora veResearch:BuildingSustainableToolsandCollabora onforVolcanicandRe- lated Hazards Program: So ware Infrastructure for Sustained Innovation</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/Sparse_representation_of_data_for_Geophysical_Applications/6174302" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td></td>
 </tr>
 <tr>
@@ -633,7 +633,7 @@ layout: default
   <td>Andreas Mueller</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: Improving Scikit-learn usability and automation</td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/SI2-SSE_Improving_Scikit-learn_usability_and_automation_poster/6174269" target="_blank"><i class="fa fa-external-link"></i></a></td>
   <td><a href="https://figshare.com/articles/NSF_SI2_SSE_Improving_Scikit-learn_usability_and_automation/6174125" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>

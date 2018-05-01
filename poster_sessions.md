@@ -1006,7 +1006,7 @@ layout: default
   <td>SI2-SSI</td>
   <td>SI2-SSI: Community Software for Extreme-Scale Computing in Earthquake System Science</td>
   <td><a href="https://figshare.com/articles/A_sustainable_Software_Environment_for_Integrated_Seismic_Modeling_SEISM_/6173963" target="_blank"><i class="fa fa-external-link"></i></a></td>
-  <td></td>
+  <td><a href="https://figshare.com/articles/A_sustainable_Software_Environment_for_Integrated_Seismic_Modeling_SEISM_/6173963" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
   <td>Eric Polizzi</td>

@@ -207,7 +207,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>9:00am</td>
-                        <td>Conceptualization: <span class="tnormal">Scientific Software Innovation Institute For High Energy Physics</span></td>
+                        <td>Conceptualization: <span class="tnormal"><a href="http://elmer.web.cern.ch/elmer/si2pi2018.pdf" target="_blank">Scientific Software Innovation Institute For High Energy Physics</a></span></td>
                         <td>Peter Elmer</td>
                     </tr>                    
                     <tr>
@@ -288,7 +288,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>4:30pm</td>
-                        <td>Panel Discussion and Combining Software and Data Programs (Ewa Deelman, Boyce Griffith, DK Panda, Abani Patra, Haiying Shen)</td>
+                        <td>Panel Discussion and Combining Software and Data Programs <span class="tnormal">(Ewa Deelman, Boyce Griffith, DK Panda, Abani Patra, Haiying Shen)</span></td>
                         <td>Vipin Chaudhary</td>
                         <td class="tnormal" style="line-height: 1.5em">Moderator: Vipin Chaudhary</td>
                     </tr>  

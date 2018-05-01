@@ -946,13 +946,6 @@ layout: default
   <td><a href="https://figshare.com/articles/Artifact_Execution_Curation_for_Repeatability_in_Artifact_Evaluation_-_Lightning_Talk/6173987" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
-  <td>Maxine Brown</td>
-  <td>SI2-SSI</td>
-  <td>SI2-SSI: SAGEnext</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Emanuel Gull</td>
   <td>Other</td>
   <td>CDS&E: Numerical Investigation of Two-Particle Response Functions of Correlated Materials</td>

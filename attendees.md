@@ -1063,8 +1063,9 @@ layout: default
 <td>University of Illinois at Chicago</td>
 <td>SI2-SSI: SAGEnext</td>
 <td>SI2-SSI</td>
-<td></td>
-<td></td></tr>
+<td><a href="https://figshare.com/articles/SAGE2_Scalable_Amplified_Group_Environment/6174071" target="_blank"><i class="fa fa-external-link"></i></a></td>
+<td><a href="https://figshare.com/articles/SI2-SSI_SAGE2_Scalable_Amplified_Group_Environment_/6169574" target="_blank"><i class="fa fa-external-link"></i></a></td>
+</tr>
 <tr>
 <td>Nancy Wilkins-Diehr</td>
 <td>San Diego Supercomputer Center</td>

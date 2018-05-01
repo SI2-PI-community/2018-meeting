@@ -116,12 +116,18 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>10:00am</td>
+                        <td><a href="https://figshare.com/articles/2018_si2_pi_walkerpeach_pdf/6204164" target="_blank">Accessing Commercial Potential of Deep Technology Innovation</a></td>
+                        <td>Cindy R. WalkerPeach</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>10:05am</td>
                         <td>Lightning Talks #1</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
                         <td rowspan="2" class="tnormal" style="line-height: 1.5em">Moderator: Frank Timmes</td>
                     </tr>                    
                     <tr>
-                        <td>10:45am</td>
+                        <td>10:50am</td>
                         <td>Posters Session #1</td>
                         <td><a href="/2018-meeting/poster_sessions.html#session1">assignments</a></td>
                     </tr>                    

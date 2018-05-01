@@ -98,7 +98,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>8:30am</td>
-                        <td>Welcome Address</td>
+                        <td><a href="https://figshare.com/articles/2018_si2_welcome_2018_pdf/6204143" target="_blank">Welcome Address</a></td>
                         <td>Frank Timmes</td>
                         <td></td>
                     </tr>

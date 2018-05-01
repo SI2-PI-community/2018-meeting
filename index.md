@@ -288,7 +288,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>4:30pm</td>
-                        <td>Panel Discussion and Combining Software and Data Programs <span class="tnormal">(Ewa Deelman, Boyce Griffith, DK Panda, Abani Patra, Haiying Shen)</span></td>
+                        <td>Panel Discussion and Combining Software and Data Programs <span class="tnormal" style="line-height: 1.5em">(Ewa Deelman, Boyce Griffith, DK Panda, Abani Patra, Haiying Shen)</span></td>
                         <td>Vipin Chaudhary</td>
                         <td class="tnormal" style="line-height: 1.5em">Moderator: Vipin Chaudhary</td>
                     </tr>  

@@ -854,6 +854,13 @@ layout: default
   <td><a href="https://figshare.com/articles/Large-Scale_Causal_Structure_Learning/6200873/1" target="_blank"><i class="fa fa-external-link"></i></a></td>
 </tr>
 <tr>
+  <td>Nancy Wilkins-Diehr</td>
+  <td>SI2-Institute</td>
+  <td>Science Gateways Community Institute</td>
+  <td><a href="https://figshare.com/articles/SGCI-About-Poster-04-2018_pdf/5995357" target="_blank"><i class="fa fa-external-link"></i></a></td>
+  <td></td>
+</tr>
+<tr>
   <td>Raheem Beyah</td>
   <td>SI2-SSE</td>
   <td>SI2-SSE: ShareSafe: A Framework for Researchers and Data Owners to Help Facilitate Secure Graph Data Sharing</td>

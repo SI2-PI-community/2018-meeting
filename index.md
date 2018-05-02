@@ -212,7 +212,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>                    
                     <tr>
                         <td>9:30am</td>
-                        <td>Conceptualization: <span class="tnormal">Conceptualizing a US Research Software Sustainability Institute</span></td>
+                        <td>Conceptualization: <span class="tnormal"><a href="http://inundata.org/talks/si2" target="_blank">Conceptualizing a US Research Software Sustainability Institute</a></span></td>
                         <td>Karthik Ram</td>
                     </tr>                    
                     <tr class="up">

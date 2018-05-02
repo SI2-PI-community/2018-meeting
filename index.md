@@ -256,7 +256,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>1:45pm</td>
-                        <td class="lnormal">SSI Highlight: <span class="tnormal">Distributed Workflow Management Research and Software in Support of Science</span></td>
+                        <td class="lnormal">SSI Highlight: <span class="tnormal"><a href="presentations/si2-pi-meeting-deelman.pdf" target="_blank">Distributed Workflow Management Research and Software in Support of Science</a></span></td>
                         <td>Ewa Deelman</td>
                     </tr>  
                     <tr>

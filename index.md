@@ -145,7 +145,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>                    
                     <tr>
                         <td>1:30pm</td>
-                        <td>SI2 Institutes: <span class="tnormal">Science Gateways Software Institute</span></td>
+                        <td>SI2 Institutes: <span class="tnormal"><a href="presentations/SGCI-PI-meeting-4-30-18.pdf" target="_blank">Science Gateways Software Institute</a></span></td>
                         <td>Nancy Wilkins-Diehr</td>
                     </tr>                    
                     <tr>

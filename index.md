@@ -201,7 +201,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>8:30am</td>
-                        <td>Conceptualization: <span class="tnormal">Geospatial Software Institute</span></td>
+                        <td>Conceptualization: <span class="tnormal"><a href="https://figshare.com/s/59f447dc6694dc5c9ece" target="_blank">Geospatial Software Institute</a></span></td>
                         <td>Shaowen Wang</td>
                         <td rowspan="3" class="tnormal" style="line-height: 1.5em">Moderator: Rafael Ferreira da Silva</td>
                     </tr>
@@ -246,7 +246,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>                    
                     <tr>
                         <td>1:15pm</td>
-                        <td class="lnormal">SSE Highlight: <span class="tnormal">Fast Dynamic Load Balancing Tools for Extreme Scale Systems</span></td>
+                        <td class="lnormal">SSE Highlight: <span class="tnormal"><a href="presentations/si2-pi-meeting-shephard.pdf" target="_blank">Fast Dynamic Load Balancing Tools for Extreme Scale Systems</a></span></td>
                         <td>Mark Shephard</td>
                     </tr>  
                     <tr>

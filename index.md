@@ -150,7 +150,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>                    
                     <tr>
                         <td>2:00pm</td>
-                        <td>SI2 Institutes: <span class="tnormal">Molecular Science Software Institute</span></td>
+                        <td>SI2 Institutes: <span class="tnormal"><a href="presentations/si2-pi-meeting-crawford.pdf" target="_blank">Molecular Science Software Institute</a></span></td>
                         <td>Daniel Crawford</td>
                     </tr>  
                     <tr>

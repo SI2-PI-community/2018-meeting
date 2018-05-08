@@ -266,7 +266,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>2:15pm</td>
-                        <td class="lnormal">Software Security: <span class="tnormal">Selecting engineering and security practices to enable robust CI and trustworthy science</span></td>
+                        <td class="lnormal">Software Security: <span class="tnormal"><a href="https://figshare.com/articles/Steps_for_Transitioning_Software_From_Development_to_Operations_To_Science_The_Cybersecurity_Perspective/6225743" target="_blank">Selecting engineering and security practices to enable robust CI and trustworthy science</a></span></td>
                         <td>Von Welch</td>
                     </tr>  
                     <tr class="up">

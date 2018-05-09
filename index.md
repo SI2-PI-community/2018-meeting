@@ -240,7 +240,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>
                     <tr>
                         <td>1:00pm</td>
-                        <td class="lnormal">SSI Highlight: <span class="tnormal">STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</span></td>
+                        <td class="lnormal">SSI Highlight: <span class="tnormal"><a href="presentations/20180423-NSF-SSI2-15mintalk-Westerink-v21abr.pptx" target="_blank">STORM: A Scalable Toolkit for an Open Community Supporting Near Realtime High Resolution Coastal Modeling</a></span></td>
                         <td>Joannes Westerink</td>
                         <td rowspan="6" class="tnormal" style="line-height: 1.5em">Moderator: Sandra Gesing</td>
                     </tr>                    

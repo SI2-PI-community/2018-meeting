@@ -155,7 +155,7 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
                     </tr>  
                     <tr>
                         <td>2:30pm</td>
-                        <td>Industry Highlight: <span class="tnormal">Approaching Sustainability and Industry: A Longest but not Last Mile</span></td>
+                        <td>Industry Highlight: <span class="tnormal"><a href="presentations/NSF_SI2_PI_Meeting_043018_zetner.pdf" target="_blank">Approaching Sustainability and Industry: A Longest but not Last Mile</a></span></td>
                         <td>Mike Zentner</td>
                     </tr>  
                     <tr class="up">

@@ -38,31 +38,10 @@ group rate is only valid from April 30 onwards, April 29 is not included).-->
     <div class="row">
         <div class="12u">
             <header>
-                <h3>Poster Assignments</h3>
+                <h3>Workshop Report</h3>
             </header>
-            <p style="text-align: left; font-size: 0.8em; line-height: 1.3em">
-                Session #1: Monday Apr 30, 2018 - 10am-noon<br />
-                Session #2: Monday Apr 30, 2018 - 3:15pm-5pm<br />
-                Session #3: Tuesday May 1, 2018 - 10:15am-noon<br />
-                Session #4: Tuesday May 1, 2018 - 2:45pm-4:30pm
-            </p>
-            <footer>
-                <ul class="buttons">
-                    <li><a href="/2018-meeting/poster_sessions.html" class="button special small">See Assignments</a></li>
-                </ul>
-            </footer>
+            <iframe src="https://widgets.figshare.com/articles/7152461/embed?show_title=1" width="100%" height="500" frameborder="0"></iframe>
         </div>
-        <!--div class="6u">
-            <header>
-                <h3>Workshop Registration</h3>
-            </header>
-            <p>Please register to attend the 2018 SI2 PI workshop by <strong><u>March 29, 2018</u></strong>:</p>
-            <footer>
-                <ul class="buttons">
-                    <li><a href="https://goo.gl/forms/2AOQFdgwKimM5bT53" target="_blank" class="button special small">Register</a></li>
-                </ul>
-            </footer>
-        </div-->
     </div>
 </section>
 
